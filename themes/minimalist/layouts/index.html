@@ -4,7 +4,7 @@
     <p>{{ .Site.Params.description }}</p>
   </div>
   <div class="posts">
-    {{ range .Pages.ByDate.Reverse }}
+    {{ range .Site.RegularPages }}
       <article>
         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
         <time datetime="{{ .Date }}">{{ .Date.Format "January 2, 2006" }}</time>
