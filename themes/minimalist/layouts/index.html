@@ -1,4 +1,16 @@
 {{ define "main" }}
+  <div class="profile">
+    <img src="{{ .Site.Params.profilePic }}" alt="Profile Picture" class="profile-pic">
+    <p>{{ .Site.Params.description }}</p>
+  </div>
+  <div class="posts">
+    {{ range .Pages }}
+      <article>
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <p>{{ .Summary }}</p>
+      </article>
+    {{ end }}
+  </div>
 <div class="profile">
   <img src="{{ .Site.Params.profilePic }}" alt="Profile Picture" class="profile-pic">
   <p>{{ .Site.Params.description }}</p>
