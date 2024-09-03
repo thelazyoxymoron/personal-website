@@ -6,7 +6,13 @@ body {
   padding: 0;
 }
 
-header {
+.site-header {
+  background-color: #fff;
+  padding: 1rem;
+  border-bottom: 1px solid #ddd;
+  max-width: 800px; /* Adjust this value as needed */
+  margin: 0 auto; /* Center the header horizontally */
+}
   background-color: #fff;
   padding: 1rem;
   border-bottom: 1px solid #ddd;
