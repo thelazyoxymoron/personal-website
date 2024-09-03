@@ -24,6 +24,8 @@ nav a:hover {
 
 main {
   padding: 1rem;
+  max-width: 800px; /* Adjust this value as needed */
+  margin: 0 auto; /* Center the main content horizontally */
 }
 
 footer {
