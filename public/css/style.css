@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #fff;
+  padding: 1rem;
+  border-bottom: 1px solid #ddd;
+}
+
+nav a {
+  color: #333;
+  text-decoration: none;
+  margin-right: 1rem;
+}
+
+nav a:hover {
+  color: #c00;
+}
+
+main {
+  padding: 1rem;
+}
+
+footer {
+  background-color: #fff;
+  padding: 1rem;
+  border-top: 1px solid #ddd;
+  text-align: center;
+}
+
+.profile {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  max-width: 100px;
+}
+
+.posts article {
+  margin-bottom: 2rem;
+}
+
+.posts h2 {
+  margin-bottom: 0.5rem;
+}
+
+.posts p {
+  color: #666;
+}
