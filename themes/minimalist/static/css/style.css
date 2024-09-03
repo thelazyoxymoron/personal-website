@@ -21,6 +21,7 @@ body {
 nav a {
   color: #333;
   margin-right: 1rem;
+  text-decoration: none; /* Ensure no underline */
 }
 
 nav a:hover {
