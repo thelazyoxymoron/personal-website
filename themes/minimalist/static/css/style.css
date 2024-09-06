@@ -35,6 +35,7 @@ body {
   color: #333;
   margin: 0;
   padding: 0;
+  justify-content: space-between; /* Ensure the footer stays at the bottom */
 }
 
 .site-container {
@@ -78,6 +79,7 @@ footer {
   width: 100%; /* Ensure it spans the entire width */
   box-sizing: border-box; /* Include padding in the width */
   height: 60px; /* Set a fixed height for the footer */
+  flex-shrink: 0; /* Ensure the footer does not shrink */
 }
 
 .profile {
