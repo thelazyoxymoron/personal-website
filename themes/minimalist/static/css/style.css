@@ -41,8 +41,7 @@ body {
   flex: 1; /* Ensure the container takes up the remaining space */
   background-color: #fff; /* Elevated block background color */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Elevated look */
-  max-width: 800px; /* Adjust this value as needed */
-  min-width: 400px; /* Set a minimum width for the elevated block */
+  width: 800px; /* Set a fixed width for the elevated block */
   margin: 2rem auto; /* Center the container horizontally */
   padding: 1rem;
 }
