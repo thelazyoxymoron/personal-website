@@ -4,13 +4,17 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ .Site.Title }}</title>
+  <link rel="icon" href="{{ .Site.Params.favicon | relURL }}">
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
 </head>
 <body>
   <div class="site-container">
   <header class="site-header">
     <nav>
-      <a href="{{ "/" | relURL }}">Siddhartha Golu</a>
+      <a href="{{ "/" | relURL }}">
+        <img src="{{ .Site.Params.profilePic | relURL }}" alt="Profile" style="height:20px; vertical-align:middle;">
+        Siddhartha Golu
+      </a>
       <div style="float:right;">
         <a href="{{ "about" | relURL }}" class="active">About</a>
         <a href="{{ "posts" | relURL }}">Posts</a>
