@@ -68,3 +68,25 @@ footer {
 .posts p {
   color: #666;
 }
+
+.post-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.post-date {
+  margin-right: 1rem;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.post-title {
+  font-size: 1.1rem;
+  color: #333;
+  text-decoration: none;
+}
+
+.post-title:hover {
+  color: #c00;
+}
