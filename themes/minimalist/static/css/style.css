@@ -67,7 +67,7 @@ main {
 }
 
 footer {
-  background-color: #f8f8f8; /* Light gray background */
+  background-color: transparent; /* Remove background color */
   padding: 1rem 0; /* Padding top and bottom */
   border-top: 1px solid #ddd; /* Light border on top */
   text-align: center;
