@@ -6,3 +6,4 @@ theme = 'minimalist'
 [params]
 	profilePic = "/images/profile.jpg"
 	description = "Welcome to the preferred dumping ground for my thoughts."
+	favicon = "/images/favicon.ico"
