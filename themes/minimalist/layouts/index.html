@@ -1,7 +1,9 @@
 {{ define "main" }}
   <div class="profile">
     <img src="{{ .Site.Params.profilePic }}" alt="Profile Picture" class="profile-pic">
-    <p>{{ .Site.Params.description }}</p>
+    <div class="description">
+      {{ .Site.Params.description | markdownify }}
+    </div>
   </div>
   <div class="posts">
     {{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts") 20 }}
