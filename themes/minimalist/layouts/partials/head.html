@@ -1,3 +1,12 @@
 {{- with .Site.Params.favicon -}}
 <link rel="icon" href="{{ . }}" type="image/x-icon">
 {{- end -}}
+{{- with .Site.Params.favicon32 -}}
+<link rel="icon" href="{{ . }}" sizes="32x32" type="image/png">
+{{- end -}}
+{{- with .Site.Params.favicon16 -}}
+<link rel="icon" href="{{ . }}" sizes="16x16" type="image/png">
+{{- end -}}
+{{- with .Site.Params.appleTouchIcon -}}
+<link rel="apple-touch-icon" href="{{ . }}">
+{{- end -}}

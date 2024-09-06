@@ -6,4 +6,7 @@ theme = 'minimalist'
 [params]
 	profilePic = "/images/profile.jpg"
 	description = "Welcome to the preferred dumping ground for my thoughts."
-	favicon = "/images/favicon.ico"
+	favicon = "/favicon.ico"
+	favicon32 = "/favicon-32x32.png"
+	favicon16 = "/favicon-16x16.png"
+	appleTouchIcon = "/apple-touch-icon.png"
