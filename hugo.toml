@@ -1,4 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://www.siddharthagolu.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Siddhartha Golu'
 theme = 'minimalist'
+
+[params]
+	profilePic = "/images/profile.jpg"
+	description = "Welcome to the preferred dumping ground for my thoughts."
