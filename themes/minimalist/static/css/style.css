@@ -120,6 +120,11 @@ footer {
   max-width: 100px;
 }
 
+.description {
+  max-width: 600px; /* Restrict the width of the description */
+  margin: 0 auto; /* Center the description */
+}
+
 .posts article {
   margin-bottom: 2rem;
 }

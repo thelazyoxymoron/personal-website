@@ -2,7 +2,7 @@
   <div class="profile">
     <img src="{{ .Site.Params.profilePic }}" alt="Profile Picture" class="profile-pic">
     <div class="description">
-      {{ .Site.Params.description | markdownify }}
+      <p>{{ .Site.Params.description | markdownify }}</p>
     </div>
   </div>
   <div class="posts">
