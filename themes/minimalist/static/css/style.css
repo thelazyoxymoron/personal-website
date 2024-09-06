@@ -232,3 +232,13 @@ footer {
   margin-left: auto;
   margin-right: auto;
 }
+
+.site-favicon {
+	height: 20px;
+	margin-right: 0.1rem;
+}
+
+.site-title {
+	font-size: 1.5em;
+	font-weight: bold;
+}
