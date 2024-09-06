@@ -1,21 +1,25 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
+  background-color: #e0e0e0; /* Different background color */
   color: #333;
   margin: 0;
   padding: 0;
+}
+
+.site-container {
+  background-color: #fff; /* Elevated block background color */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Elevated look */
+  max-width: 800px; /* Adjust this value as needed */
+  margin: 2rem auto; /* Center the container horizontally */
+  padding: 1rem;
 }
 
 .site-header {
   background-color: #fff;
   padding: 1rem;
   border-bottom: 1px solid #ddd;
-  max-width: 800px; /* Adjust this value as needed */
+  max-width: 100%; /* Adjust this value as needed */
   margin: 0 auto; /* Center the header horizontally */
-}
-  background-color: #fff;
-  padding: 1rem;
-  border-bottom: 1px solid #ddd;
 }
 
 nav a {
@@ -30,7 +34,7 @@ nav a:hover {
 
 main {
   padding: 1rem;
-  max-width: 800px; /* Adjust this value as needed */
+  max-width: 100%; /* Adjust this value as needed */
   margin: 0 auto; /* Center the main content horizontally */
 }
 
