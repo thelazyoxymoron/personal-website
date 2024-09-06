@@ -112,7 +112,7 @@ footer {
 
 .profile {
   text-align: center;
-  margin-bottom: 2rem;
+  margin-bottom: 4rem; /* Increased margin */
 }
 
 .profile-pic {
