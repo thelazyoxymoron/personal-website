@@ -39,10 +39,12 @@ main {
 }
 
 footer {
-  background-color: #fff;
-  padding: 1rem;
-  border-top: 1px solid #ddd;
+  background-color: #f8f8f8; /* Light gray background */
+  padding: 1rem 0; /* Padding top and bottom */
+  border-top: 1px solid #ddd; /* Light border on top */
   text-align: center;
+  width: 100%; /* Ensure it spans the entire width */
+  box-sizing: border-box; /* Include padding in the width */
 }
 
 .profile {
