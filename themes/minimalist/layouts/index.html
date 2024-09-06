@@ -12,6 +12,15 @@
         <p>{{ .Summary }}</p>
       </article>
     {{ end }}
-    {{ template "_internal/pagination.html" . }}
+    {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+      <div class="pagination">
+        {{ if .Paginator.HasPrev }}
+          <a href="{{ .Paginator.Prev.URL }}" class="pagination-link">Prev</a>
+        {{ end }}
+        {{ if .Paginator.HasNext }}
+          <a href="{{ .Paginator.Next.URL }}" class="pagination-link">Next</a>
+        {{ end }}
+      </div>
+    {{ end }}
   </div>
 {{ end }}

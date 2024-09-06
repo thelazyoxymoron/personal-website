@@ -90,3 +90,18 @@ footer {
 .post-title:hover {
   color: #c00;
 }
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
+
+.pagination-link {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.pagination-link:hover {
+  color: #c00;
+}
