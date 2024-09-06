@@ -47,6 +47,14 @@ body {
   padding: 1rem;
 }
 
+@media (max-width: 768px) {
+  .site-container {
+    width: 90%; /* Adjust width for smaller screens */
+    margin: 1rem auto; /* Adjust margin for smaller screens */
+    padding: 0.5rem; /* Adjust padding for smaller screens */
+  }
+}
+
 .site-header {
   background-color: #fff;
   padding: 1rem;
@@ -63,6 +71,18 @@ nav a {
 
 nav a:hover {
   color: #c00;
+}
+
+@media (max-width: 768px) {
+  nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  nav a {
+    margin: 0.5rem 0; /* Adjust margin for smaller screens */
+  }
 }
 
 main {
@@ -124,6 +144,26 @@ footer {
 
 .post-title:hover {
   color: #c00;
+}
+
+@media (max-width: 768px) {
+  .profile-pic {
+    max-width: 80px; /* Adjust profile picture size for smaller screens */
+  }
+
+  .post-item {
+    flex-direction: column; /* Stack post items vertically on smaller screens */
+    align-items: flex-start;
+  }
+
+  .post-date {
+    margin-right: 0; /* Remove margin for smaller screens */
+    margin-bottom: 0.5rem; /* Add margin below date for smaller screens */
+  }
+
+  .post-title {
+    font-size: 1rem; /* Adjust font size for smaller screens */
+  }
 }
 .pagination {
   display: flex;
