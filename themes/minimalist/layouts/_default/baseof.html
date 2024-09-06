@@ -5,13 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ .Site.Title }}</title>
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+  <script src="{{ "js/menu.js" | relURL }}"></script>
 </head>
 <body>
   <div class="site-container">
   <header class="site-header">
     <nav>
       <a href="{{ "/" | relURL }}">Siddhartha Golu</a>
-      <div style="float:right;">
+      <button class="menu-toggle">☰</button>
+      <div class="nav-links">
         <a href="{{ "about" | relURL }}" class="active">About</a>
         <a href="{{ "posts" | relURL }}">Posts</a>
         <a href="{{ "categories" | relURL }}">Categories</a>
