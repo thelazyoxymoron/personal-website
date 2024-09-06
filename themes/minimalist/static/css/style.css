@@ -1,23 +1,33 @@
 @font-face {
   font-family: 'Roboto Slab';
-  src: url('../fonts/RobotoSlab-Regular.woff2') format('woff2'),
-       url('../fonts/RobotoSlab-Regular.woff') format('woff'),
-       url('../fonts/RobotoSlab-Regular.ttf') format('truetype');
+  src: url('../fonts/RobotoSlab/RobotoSlab-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Roboto Slab';
-  src: url('../fonts/RobotoSlab-Bold.woff2') format('woff2'),
-       url('../fonts/RobotoSlab-Bold.woff') format('woff'),
-       url('../fonts/RobotoSlab-Bold.ttf') format('truetype');
+  src: url('../fonts/RobotoSlab/RobotoSlab-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PT Sans';
+  src: url('../fonts/PTSans/PTSans-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PT Sans';
+  src: url('../fonts/PTSans/PTSans-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
 }
 
 body {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'PT Sans', serif;
   background-color: #e0e0e0; /* Different background color */
   color: #333;
   margin: 0;
