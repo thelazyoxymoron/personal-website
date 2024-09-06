@@ -27,6 +27,9 @@
 }
 
 body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Ensure the body takes at least the full height of the viewport */
   font-family: 'PT Sans', serif;
   background-color: #e0e0e0; /* Different background color */
   color: #333;
@@ -35,6 +38,7 @@ body {
 }
 
 .site-container {
+  flex: 1; /* Ensure the container takes up the remaining space */
   background-color: #fff; /* Elevated block background color */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Elevated look */
   max-width: 800px; /* Adjust this value as needed */
