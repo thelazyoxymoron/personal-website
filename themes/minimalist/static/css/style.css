@@ -112,4 +112,5 @@ footer {
 
 .pagination-link.next {
   order: 2;
+  margin-left: auto; /* Ensure "Next" button is always on the right */
 }

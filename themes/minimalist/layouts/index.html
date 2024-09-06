@@ -16,9 +16,7 @@
         {{ if .Paginator.HasPrev }}
           <a href="{{ .Paginator.Prev.URL }}" class="pagination-link prev">Prev</a>
         {{ end }}
-        {{ if .Paginator.HasNext }}
-          <a href="{{ .Paginator.Next.URL }}" class="pagination-link next">Next</a>
-        {{ end }}
+        <a href="{{ .Paginator.Next.URL }}" class="pagination-link next" {{ if not .Paginator.HasNext }}style="display:none;"{{ end }}>Next</a>
       </div>
     {{ end }}
   </div>
