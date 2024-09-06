@@ -105,3 +105,11 @@ footer {
 .pagination-link:hover {
   color: #c00;
 }
+
+.pagination-link.prev {
+  order: 1;
+}
+
+.pagination-link.next {
+  order: 2;
+}
