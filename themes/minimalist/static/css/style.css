@@ -73,6 +73,14 @@ nav a:hover {
   color: #c00;
 }
 
+a {
+	color: #cc0000c8;
+}
+
+a:hover {
+  color: #c00;
+}
+
 @media (max-width: 768px) {
   nav {
     display: flex;
