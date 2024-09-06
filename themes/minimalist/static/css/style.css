@@ -166,7 +166,7 @@ footer {
 
   .post-date {
     margin-right: 0; /* Remove margin for smaller screens */
-    margin-bottom: 0.5rem; /* Add margin below date for smaller screens */
+    margin-bottom: 0.25rem; /* Reduce margin below date for smaller screens */
   }
 
   .post-title {
