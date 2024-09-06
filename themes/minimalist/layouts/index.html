@@ -6,11 +6,10 @@
   <div class="posts">
     {{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts") 10 }}
     {{ range $paginator.Pages }}
-      <article>
-        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-        <time datetime="{{ .Date }}">{{ .Date.Format "January 2, 2006" }}</time>
-        <p>{{ .Summary }}</p>
-      </article>
+      <li class="post-item">
+        <span class="post-date">{{ .Date.Format "2006-01-02" }}</span>
+        <a href="{{ .Permalink }}" class="post-title">{{ .Title }}</a>
+      </li>
     {{ end }}
     {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
       <div class="pagination">
