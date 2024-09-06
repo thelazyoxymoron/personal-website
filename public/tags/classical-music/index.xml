@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classical-Music on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/classical-music/</link>
+    <description>Recent content in Classical-Music on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jan 2020 22:05:06 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/classical-music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Listen to and Understand Great Music by Robert Greenberg</title>
+      <link>http://localhost:1313/posts/reading/great-music/</link>
+      <pubDate>Thu, 16 Jan 2020 22:05:06 +0530</pubDate>
+      <guid>http://localhost:1313/posts/reading/great-music/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/3030817409&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I have been a lover of music since my early childhood - runs in the family - and have imitated and performed songs (mostly inside my own head) on numerous occasions. Despite this lifelong love affair with music of all kinds, there was one particular genre of music that always baffled me. Mostly because of my own ignorance, but partially also because nobody else was talking about it. Nobody else in my own vicinity that is. It didn&amp;rsquo;t play on the radio, you won&amp;rsquo;t hear it playing on any of the countless music channels and certainly, nobody was going on tours giving live performances.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

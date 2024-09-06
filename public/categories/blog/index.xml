@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on My New Hugo Site</title>
+    <link>http://localhost:1313/categories/blog/</link>
+    <description>Recent content in Blog on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Jan 2019 01:24:41 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Depression and Recovery</title>
+      <link>http://localhost:1313/posts/on-depression-and-recovery/</link>
+      <pubDate>Thu, 17 Jan 2019 01:24:41 +0530</pubDate>
+      <guid>http://localhost:1313/posts/on-depression-and-recovery/</guid>
+      <description>&lt;p&gt;Depression is a very heavy handed word, and probably the most misunderstood one too. It stealthily engulfs you in its tight grasp,&#xA;attackiong when you least expect it to. One moment you&amp;rsquo;re enjoying the weather, basking in the glory of some happy thought, maybe&#xA;remembering that on thing that your partner did for you - and suddenly from this wave of happy and positive emotions, a tiny&#xA;splash comes towards you - the splash of doubt. Was your colleague being sarcastic when he was praising your work?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

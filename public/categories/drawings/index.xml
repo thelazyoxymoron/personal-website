@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drawings on My New Hugo Site</title>
+    <link>http://localhost:1313/categories/drawings/</link>
+    <description>Recent content in Drawings on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jun 2020 17:26:51 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/drawings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Beautiful Woman</title>
+      <link>http://localhost:1313/posts/drawings/a-beautiful-woman/</link>
+      <pubDate>Tue, 09 Jun 2020 17:26:51 +0530</pubDate>
+      <guid>http://localhost:1313/posts/drawings/a-beautiful-woman/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;I don&amp;rsquo;t know why, but I liked the eyes-only version more. Linked below is the work-in-progress sketch:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/lady_partial.jpg&#34; alt=&#34;Work in progress&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Martin Freeman</title>
+      <link>http://localhost:1313/posts/drawings/martin-freeman/</link>
+      <pubDate>Tue, 09 Jun 2020 17:20:16 +0530</pubDate>
+      <guid>http://localhost:1313/posts/drawings/martin-freeman/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;I used to be obsessed with Sherlock (the HBO show) during the time it aired, and part of my fascination was with Martin Freeman here, who so brilliantly played the role of Watson.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Einstein</title>
+      <link>http://localhost:1313/posts/drawings/einstein/</link>
+      <pubDate>Tue, 09 Jun 2020 17:14:48 +0530</pubDate>
+      <guid>http://localhost:1313/posts/drawings/einstein/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;I have a particular affinity towards this sketch as I was very apprehensive about attempting Einstein, his face had much more complexity than what I usually dealt with, but it turned out good enough in the end.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mother Teresa</title>
+      <link>http://localhost:1313/posts/drawings/teresa/</link>
+      <pubDate>Tue, 09 Jun 2020 17:09:43 +0530</pubDate>
+      <guid>http://localhost:1313/posts/drawings/teresa/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;Completely botched this drawing, but it reminds me of the drawing streak I used to have back when I was in my hometown during college vacations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Charlie Chaplin (um... not quite)</title>
+      <link>http://localhost:1313/posts/drawings/chaplin/</link>
+      <pubDate>Tue, 09 Jun 2020 17:01:36 +0530</pubDate>
+      <guid>http://localhost:1313/posts/drawings/chaplin/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;I was either on acid or I had watched a sad movie before attempting this piece. A strange juxtaposition of Chaplin and Hitler.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gandhi</title>
+      <link>http://localhost:1313/posts/drawings/gandhi/</link>
+      <pubDate>Tue, 09 Jun 2020 16:51:23 +0530</pubDate>
+      <guid>http://localhost:1313/posts/drawings/gandhi/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;My first attempt at drawing after dabbling in caricature pieces in my childhood :)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

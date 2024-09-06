@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feminism on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/feminism/</link>
+    <description>Recent content in Feminism on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Sep 2023 21:05:39 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/feminism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chup: Breaking the Silence About India&#39;s Women by Deepa Narayan</title>
+      <link>http://localhost:1313/posts/reading/chup-deepa-narayan/</link>
+      <pubDate>Sun, 03 Sep 2023 21:05:39 +0530</pubDate>
+      <guid>http://localhost:1313/posts/reading/chup-deepa-narayan/</guid>
+      <description>A powerful exploration into the psyche of Indian women and how society perpetuates the status quo</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Economics on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/economics/</link>
+    <description>Recent content in Economics on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Dec 2020 09:24:30 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/economics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Do What I Do by Raghuram Rajan</title>
+      <link>http://localhost:1313/posts/reading/i-do-what-i-do/</link>
+      <pubDate>Sat, 19 Dec 2020 09:24:30 +0530</pubDate>
+      <guid>http://localhost:1313/posts/reading/i-do-what-i-do/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/3659132372&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/rajan.jpg#center&#34; alt=&#34;Rajan cover&#34; title=&#34;Rajan Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I had picked up this one thinking it to be an autobiography, and with an expectation that it&amp;rsquo;ll cover Rajan&amp;rsquo;s tussles with the government in more details. I was pleasantly surprised to find instead a good collection of technical essays covering the workings of RBI, and economics in general. If you&amp;rsquo;re looking for a good explanatory work in the field of Economics (and especially those concerning India and its policies), you&amp;rsquo;ll enjoy this.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

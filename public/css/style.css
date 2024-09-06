@@ -1,36 +1,113 @@
+@font-face {
+  font-family: 'Roboto Slab';
+  src: url('../fonts/RobotoSlab/RobotoSlab-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto Slab';
+  src: url('../fonts/RobotoSlab/RobotoSlab-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PT Sans';
+  src: url('../fonts/PTSans/PTSans-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PT Sans';
+  src: url('../fonts/PTSans/PTSans-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
 body {
-  font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Ensure the body takes at least the full height of the viewport */
+  font-family: 'PT Sans', serif;
+  background-color: #e0e0e0; /* Different background color */
   color: #333;
   margin: 0;
   padding: 0;
+  justify-content: space-between; /* Ensure the footer stays at the bottom */
 }
 
-header {
+.site-container {
+  flex: 1; /* Ensure the container takes up the remaining space */
+  background-color: #fff; /* Elevated block background color */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Elevated look */
+  width: 800px; /* Set a fixed width for the elevated block */
+  margin: 2rem auto; /* Center the container horizontally */
+  padding: 1rem;
+}
+
+@media (max-width: 768px) {
+  .site-container {
+    width: 90%; /* Adjust width for smaller screens */
+    margin: 1rem auto; /* Adjust margin for smaller screens */
+    padding: 0.5rem; /* Adjust padding for smaller screens */
+  }
+}
+
+.site-header {
   background-color: #fff;
   padding: 1rem;
   border-bottom: 1px solid #ddd;
+  max-width: 100%; /* Adjust this value as needed */
+  margin: 0 auto; /* Center the header horizontally */
 }
 
 nav a {
   color: #333;
-  text-decoration: none;
   margin-right: 1rem;
+  text-decoration: none; /* Ensure no underline */
 }
 
 nav a:hover {
   color: #c00;
 }
 
+a {
+	color: #cc0000c8;
+}
+
+a:hover {
+  color: #c00;
+}
+
+@media (max-width: 768px) {
+  nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  nav a {
+    margin: 0.5rem 0; /* Adjust margin for smaller screens */
+  }
+}
+
 main {
   padding: 1rem;
+  max-width: 100%; /* Adjust this value as needed */
+  margin: 0 auto; /* Center the main content horizontally */
 }
 
 footer {
-  background-color: #fff;
-  padding: 1rem;
-  border-top: 1px solid #ddd;
+  background-color: transparent; /* Remove background color */
+  padding: 1rem 0; /* Padding top and bottom */
+  border-top: 1px solid #ddd; /* Light border on top */
   text-align: center;
+  width: 100%; /* Ensure it spans the entire width */
+  box-sizing: border-box; /* Include padding in the width */
+  height: 60px; /* Set a fixed height for the footer */
+  flex-shrink: 0; /* Ensure the footer does not shrink */
 }
 
 .profile {
@@ -53,4 +130,99 @@ footer {
 
 .posts p {
   color: #666;
+}
+
+.post-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.post-date {
+  margin-right: 1rem;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.post-title {
+  font-size: 1.1rem;
+  color: #333;
+  text-decoration: none;
+}
+
+.post-title:hover {
+  color: #c00;
+}
+
+@media (max-width: 768px) {
+  .profile-pic {
+    max-width: 80px; /* Adjust profile picture size for smaller screens */
+  }
+
+  .post-item {
+    flex-direction: column; /* Stack post items vertically on smaller screens */
+    align-items: flex-start;
+  }
+
+  .post-date {
+    margin-right: 0; /* Remove margin for smaller screens */
+    margin-bottom: 0.25rem; /* Reduce margin below date for smaller screens */
+  }
+
+  .post-title {
+    font-size: 1rem; /* Adjust font size for smaller screens */
+  }
+}
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
+
+.pagination-link {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.pagination-link:hover {
+  color: #c00;
+}
+
+.pagination-link.prev {
+  order: 1;
+}
+
+.pagination-link.next {
+  order: 2;
+  margin-left: auto; /* Ensure "Next" button is always on the right */
+}
+
+/* Tooltip styles */
+.tooltip {
+  position: relative;
+  display: inline-block;
+  cursor: help;
+}
+
+.tooltip .tooltip-text {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%; /* Position the tooltip above the text */
+  left: 50%;
+  margin-left: -60px; /* Use half of the width to center the tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip:hover .tooltip-text {
+  visibility: visible;
+  opacity: 1;
 }
