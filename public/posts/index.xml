@@ -1,306 +1,299 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Siddhartha Golu</title>
+    <link>https://www.siddharthagolu.com/posts/</link>
+    <description>Recent content in Posts on Siddhartha Golu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Sep 2024 22:15:16 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.siddharthagolu.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Proficient Motorcycling by David L. Hough</title>
-      <link>http://localhost:1313/posts/reading/proficient-motorcycling/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/proficient-motorcycling/</link>
       <pubDate>Sun, 01 Sep 2024 22:15:16 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/proficient-motorcycling/</guid>
+      <guid>https://www.siddharthagolu.com/posts/reading/proficient-motorcycling/</guid>
       <description>A good primer on learning how to ride well</description>
     </item>
     <item>
       <title>Freezing Apps on Non Rooted Phones (Without a PC)</title>
-      <link>http://localhost:1313/posts/til/freezing-apps-on-non-rooted-phones/</link>
+      <link>https://www.siddharthagolu.com/posts/til/freezing-apps-on-non-rooted-phones/</link>
       <pubDate>Fri, 07 Jun 2024 13:30:50 +0530</pubDate>
-      <guid>http://localhost:1313/posts/til/freezing-apps-on-non-rooted-phones/</guid>
-      <description>&lt;p&gt;Recently when my mom got a new phone, I wanted to remove some system applications from the phone which are bloatware. Now doing this with a laptop is fairly easy, we can just use &lt;code&gt;adb&lt;/code&gt; to uninstall, however the task becomes difficult if you cannot use a PC.&lt;/p&gt;&#xA;&lt;p&gt;Found a way to do this via &lt;a href=&#34;https://github.com/RikkaApps/Shizuku&#34;&gt;Shizuku&lt;/a&gt; + &lt;a href=&#34;https://github.com/aistra0528/Hail&#34;&gt;Hail&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Install Shizuku&#xA;&lt;img src=&#34;http://localhost:1313/images/shizuku_home_page.png&#34; alt=&#34;Shizuku home screen&#34; title=&#34;Shizuku home screen&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;Starting with android 11, you can use ADB on the device without using a PC. You&amp;rsquo;ll have to enable wireless debugging first and then connect the app through the wireless debugging.&lt;/li&gt;&#xA;&lt;li&gt;Go to &lt;code&gt;About phone -&amp;gt; build number&lt;/code&gt; and keep clicking it to enable developer mode&lt;/li&gt;&#xA;&lt;li&gt;Once enabled, search for &lt;code&gt;wireless debugging&lt;/code&gt; in settings -&amp;gt; enable that -&amp;gt; click on the left side of the panel to go inside &lt;code&gt;wireless debugging&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Open &lt;code&gt;Shizuku&lt;/code&gt; and click on &lt;code&gt;pairing&lt;/code&gt; under wireless debugging&lt;/li&gt;&#xA;&lt;li&gt;Give notification access&#xA;&lt;img src=&#34;http://localhost:1313/images/shizuku-notification.png&#34; alt=&#34;Shizuku notification&#34; title=&#34;Shizuku notification&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;Click on &lt;code&gt;developer options&lt;/code&gt; -&amp;gt; go to &lt;code&gt;wireless debugging&lt;/code&gt; -&amp;gt; pair device with pairing code -&amp;gt; note down the pairing code&lt;/li&gt;&#xA;&lt;li&gt;Give that code in the notification bar -&amp;gt; pairing should be successful&lt;/li&gt;&#xA;&lt;li&gt;Go back to the home screen in &lt;code&gt;Shizuku&lt;/code&gt; and click on &lt;code&gt;Start&lt;/code&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;If you get the following error, simply restart &lt;code&gt;Shizuku&lt;/code&gt;:&#xA;&lt;img src=&#34;http://localhost:1313/images/shizuku-error.png&#34; alt=&#34;Error in Shizuku&#34; title=&#34;Error in shizuku&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Shuzuku should be running now.&lt;/li&gt;&#xA;&lt;li&gt;Install &lt;code&gt;Hail&lt;/code&gt; -&amp;gt; go to settings -&amp;gt; click on &lt;code&gt;working mode&lt;/code&gt; -&amp;gt; select &lt;code&gt;Shizuku - Disable&lt;/code&gt; -&amp;gt; Allow all the time&lt;/li&gt;&#xA;&lt;li&gt;Go to &lt;code&gt;Apps&lt;/code&gt; from the bottom navigation in &lt;code&gt;Hail&lt;/code&gt; -&amp;gt; select the system apps you want to freeze -&amp;gt; go back to home after selecting these apps&#xA;&lt;ul&gt;&#xA;&lt;li&gt;By default only User apps are listed. Click on three dots and select system apps to list all apps&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Click on the right hand corner icon to freeze these apps. Voilà, all these system applications&#xA;should be disabled.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://www.siddharthagolu.com/posts/til/freezing-apps-on-non-rooted-phones/</guid>
+      <description>&lt;p&gt;Recently when my mom got a new phone, I wanted to remove some system applications from the phone which are bloatware. Now doing this with a laptop is fairly easy, we can just use &lt;code&gt;adb&lt;/code&gt; to uninstall, however the task becomes difficult if you cannot use a PC.&lt;/p&gt;&#xA;&lt;p&gt;Found a way to do this via &lt;a href=&#34;https://github.com/RikkaApps/Shizuku&#34;&gt;Shizuku&lt;/a&gt; + &lt;a href=&#34;https://github.com/aistra0528/Hail&#34;&gt;Hail&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Install Shizuku&#xA;&lt;img src=&#34;https://www.siddharthagolu.com/images/shizuku_home_page.png&#34; alt=&#34;Shizuku home screen&#34; title=&#34;Shizuku home screen&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;Starting with android 11, you can use ADB on the device without using a PC. You&amp;rsquo;ll have to enable wireless debugging first and then connect the app through the wireless debugging.&lt;/li&gt;&#xA;&lt;li&gt;Go to &lt;code&gt;About phone -&amp;gt; build number&lt;/code&gt; and keep clicking it to enable developer mode&lt;/li&gt;&#xA;&lt;li&gt;Once enabled, search for &lt;code&gt;wireless debugging&lt;/code&gt; in settings -&amp;gt; enable that -&amp;gt; click on the left side of the panel to go inside &lt;code&gt;wireless debugging&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Open &lt;code&gt;Shizuku&lt;/code&gt; and click on &lt;code&gt;pairing&lt;/code&gt; under wireless debugging&lt;/li&gt;&#xA;&lt;li&gt;Give notification access&#xA;&lt;img src=&#34;https://www.siddharthagolu.com/images/shizuku-notification.png&#34; alt=&#34;Shizuku notification&#34; title=&#34;Shizuku notification&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;Click on &lt;code&gt;developer options&lt;/code&gt; -&amp;gt; go to &lt;code&gt;wireless debugging&lt;/code&gt; -&amp;gt; pair device with pairing code -&amp;gt; note down the pairing code&lt;/li&gt;&#xA;&lt;li&gt;Give that code in the notification bar -&amp;gt; pairing should be successful&lt;/li&gt;&#xA;&lt;li&gt;Go back to the home screen in &lt;code&gt;Shizuku&lt;/code&gt; and click on &lt;code&gt;Start&lt;/code&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;If you get the following error, simply restart &lt;code&gt;Shizuku&lt;/code&gt;:&#xA;&lt;img src=&#34;https://www.siddharthagolu.com/images/shizuku-error.png&#34; alt=&#34;Error in Shizuku&#34; title=&#34;Error in shizuku&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Shuzuku should be running now.&lt;/li&gt;&#xA;&lt;li&gt;Install &lt;code&gt;Hail&lt;/code&gt; -&amp;gt; go to settings -&amp;gt; click on &lt;code&gt;working mode&lt;/code&gt; -&amp;gt; select &lt;code&gt;Shizuku - Disable&lt;/code&gt; -&amp;gt; Allow all the time&lt;/li&gt;&#xA;&lt;li&gt;Go to &lt;code&gt;Apps&lt;/code&gt; from the bottom navigation in &lt;code&gt;Hail&lt;/code&gt; -&amp;gt; select the system apps you want to freeze -&amp;gt; go back to home after selecting these apps&#xA;&lt;ul&gt;&#xA;&lt;li&gt;By default only User apps are listed. Click on three dots and select system apps to list all apps&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Click on the right hand corner icon to freeze these apps. Voilà, all these system applications&#xA;should be disabled.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Midnight&#39;s Children by Salman Rushdie</title>
-      <link>http://localhost:1313/posts/reading/midnight-rushdie/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/midnight-rushdie/</link>
       <pubDate>Sun, 21 Apr 2024 19:53:52 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/midnight-rushdie/</guid>
+      <guid>https://www.siddharthagolu.com/posts/reading/midnight-rushdie/</guid>
       <description>A phenomenally written book!</description>
     </item>
     <item>
       <title>Chup: Breaking the Silence About India&#39;s Women by Deepa Narayan</title>
-      <link>http://localhost:1313/posts/reading/chup-deepa-narayan/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/chup-deepa-narayan/</link>
       <pubDate>Sun, 03 Sep 2023 21:05:39 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/chup-deepa-narayan/</guid>
+      <guid>https://www.siddharthagolu.com/posts/reading/chup-deepa-narayan/</guid>
       <description>A powerful exploration into the psyche of Indian women and how society perpetuates the status quo</description>
     </item>
     <item>
       <title>Empire of Pain: The Secret History of the Sackler Dynasty</title>
-      <link>http://localhost:1313/posts/reading/empire-of-pain/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/empire-of-pain/</link>
       <pubDate>Wed, 21 Jun 2023 08:49:32 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/empire-of-pain/</guid>
+      <guid>https://www.siddharthagolu.com/posts/reading/empire-of-pain/</guid>
       <description>If you want to understand how the opioid crisis began, read this</description>
     </item>
     <item>
       <title>So Good They Can&#39;t Ignore You - Cal Newport</title>
-      <link>http://localhost:1313/posts/reading/so-good-newport/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/so-good-newport/</link>
       <pubDate>Wed, 29 Mar 2023 15:04:13 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/so-good-newport/</guid>
+      <guid>https://www.siddharthagolu.com/posts/reading/so-good-newport/</guid>
       <description>A series of blog posts that unfortunately became a book. Not recommended.</description>
     </item>
     <item>
       <title>Four Thousand Weeks: Time Management for Mortals by Oliver Burkeman</title>
-      <link>http://localhost:1313/posts/reading/four-thousand-weeks/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/four-thousand-weeks/</link>
       <pubDate>Wed, 21 Sep 2022 07:35:24 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/four-thousand-weeks/</guid>
+      <guid>https://www.siddharthagolu.com/posts/reading/four-thousand-weeks/</guid>
       <description>A book about time and our relationship with it. Recommended.</description>
     </item>
     <item>
       <title>After Life (1998) by Hirokazu Kore-eda</title>
-      <link>http://localhost:1313/posts/cinema/after-life/</link>
+      <link>https://www.siddharthagolu.com/posts/cinema/after-life/</link>
       <pubDate>Sun, 01 May 2022 22:41:55 +0530</pubDate>
-      <guid>http://localhost:1313/posts/cinema/after-life/</guid>
+      <guid>https://www.siddharthagolu.com/posts/cinema/after-life/</guid>
       <description>An interesting take on life, seen through the lens of afterlife. Highly recommended!</description>
     </item>
     <item>
       <title>Life Between Buildings by Jan Gehl</title>
-      <link>http://localhost:1313/posts/reading/life-between-buildings/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/life-between-buildings/</link>
       <pubDate>Thu, 21 Apr 2022 09:04:49 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/life-between-buildings/</guid>
+      <guid>https://www.siddharthagolu.com/posts/reading/life-between-buildings/</guid>
       <description>A gentle introduction to the study of buildings and the way they enable societal interactions.</description>
     </item>
     <item>
       <title>3 Iron (2004) by Kim Ki-duk</title>
-      <link>http://localhost:1313/posts/cinema/3-iron/</link>
+      <link>https://www.siddharthagolu.com/posts/cinema/3-iron/</link>
       <pubDate>Sun, 14 Nov 2021 10:46:40 +0530</pubDate>
-      <guid>http://localhost:1313/posts/cinema/3-iron/</guid>
+      <guid>https://www.siddharthagolu.com/posts/cinema/3-iron/</guid>
       <description>A film where everything is conveyed through glances.</description>
     </item>
     <item>
       <title>The Way We Eat: Why Our Food Choices Matter by Peter Singer</title>
-      <link>http://localhost:1313/posts/reading/the-way-we-eat/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/the-way-we-eat/</link>
       <pubDate>Wed, 01 Sep 2021 10:43:25 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/the-way-we-eat/</guid>
+      <guid>https://www.siddharthagolu.com/posts/reading/the-way-we-eat/</guid>
       <description>The ethical dilemma of eating. Highly recommended!</description>
     </item>
     <item>
       <title>Shame by Salman Rushdie</title>
-      <link>http://localhost:1313/posts/reading/shame-rushdie/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/shame-rushdie/</link>
       <pubDate>Tue, 17 Aug 2021 22:55:02 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/shame-rushdie/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/4138625648&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/shame.jpg#center&#34; alt=&#34;Shame Cover&#34; title=&#34;Shame Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Now that I&amp;rsquo;ve moved away from reading fiction, I find that I face a lot of inertia to pick up something purely for pleasure. Maybe this is a nasty by-product of wanting to be as &amp;ldquo;productive&amp;rdquo; as possible. But the more I have drifted away from reading for pleasure, more mechanical the whole process has become for me. Partly to avoid this feeling, and partly because of my shame at seeing my bookshelf filled with dusty unread books, I picked up this one to assuage my feelings of guilt.&lt;/p&gt;</description>
+      <guid>https://www.siddharthagolu.com/posts/reading/shame-rushdie/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/4138625648&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.siddharthagolu.com/images/shame.jpg#center&#34; alt=&#34;Shame Cover&#34; title=&#34;Shame Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Now that I&amp;rsquo;ve moved away from reading fiction, I find that I face a lot of inertia to pick up something purely for pleasure. Maybe this is a nasty by-product of wanting to be as &amp;ldquo;productive&amp;rdquo; as possible. But the more I have drifted away from reading for pleasure, more mechanical the whole process has become for me. Partly to avoid this feeling, and partly because of my shame at seeing my bookshelf filled with dusty unread books, I picked up this one to assuage my feelings of guilt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>What I Talk About When I Talk About Running by Haruki Murakami</title>
-      <link>http://localhost:1313/posts/reading/running-murakami/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/running-murakami/</link>
       <pubDate>Sat, 14 Aug 2021 20:09:56 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/running-murakami/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/4168404043&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/running-murakami.jpg#center&#34; alt=&#34;Running Cover&#34; title=&#34;Running Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Pain is inevitable, suffering is optional.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;I have no affinity for running, even for short jogs, and much less for wanting to run long distances. Although this is not because I hate exercises - one of those rare things that I figured out early in life was my desire to remain healthy as long as possible and that of course means I need to keep myself fit - but probably my distaste for running stems from the monotonous nature of the activity. You keep pounding your legs with a short breath and no rest in sight, what is there to&#xA;enjoy and look forward to?&lt;/p&gt;</description>
+      <guid>https://www.siddharthagolu.com/posts/reading/running-murakami/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/4168404043&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.siddharthagolu.com/images/running-murakami.jpg#center&#34; alt=&#34;Running Cover&#34; title=&#34;Running Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Pain is inevitable, suffering is optional.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;I have no affinity for running, even for short jogs, and much less for wanting to run long distances. Although this is not because I hate exercises - one of those rare things that I figured out early in life was my desire to remain healthy as long as possible and that of course means I need to keep myself fit - but probably my distaste for running stems from the monotonous nature of the activity. You keep pounding your legs with a short breath and no rest in sight, what is there to&#xA;enjoy and look forward to?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Annihilation of Caste(Annotated Edition) by Arundhati Roy</title>
-      <link>http://localhost:1313/posts/reading/annihilation-of-caste/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/annihilation-of-caste/</link>
       <pubDate>Fri, 23 Jul 2021 22:56:47 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/annihilation-of-caste/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/4063570586&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/caste.jpg#center&#34; alt=&#34;Annihilation Cover&#34; title=&#34;Annihilation Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I find India really fascinating sometimes, even though I&amp;rsquo;ve lived my whole life here. What the cultural multitudes and colorful festivals hide underneath is an ugly facade which threatens to break everything that has been built over the years. What I find most fascinating is how we&amp;rsquo;ve conditioned ourselves to ignore the blatant reality and move ahead with an oblivious calm, living in shit and aspiring for the gold.&lt;/p&gt;</description>
+      <guid>https://www.siddharthagolu.com/posts/reading/annihilation-of-caste/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/4063570586&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.siddharthagolu.com/images/caste.jpg#center&#34; alt=&#34;Annihilation Cover&#34; title=&#34;Annihilation Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I find India really fascinating sometimes, even though I&amp;rsquo;ve lived my whole life here. What the cultural multitudes and colorful festivals hide underneath is an ugly facade which threatens to break everything that has been built over the years. What I find most fascinating is how we&amp;rsquo;ve conditioned ourselves to ignore the blatant reality and move ahead with an oblivious calm, living in shit and aspiring for the gold.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Parenting Beyond Belief by Dale McGowan</title>
-      <link>http://localhost:1313/posts/reading/parenting/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/parenting/</link>
       <pubDate>Thu, 18 Mar 2021 22:14:21 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/parenting/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/2833252009&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/parenting.jpg#center&#34; alt=&#34;Parenting Cover&#34; title=&#34;Parenting Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I have had a very curious relationship with religion, although now that I talk to others, it was a much more normal experience than what I led myself to believe. I followed the typical path of receiving a particular religion from my parents (born a &amp;ldquo;Hindu child&amp;rdquo;), which had a supporting role in my life up until my late-teenage/early-adolescent years.&lt;/p&gt;</description>
+      <guid>https://www.siddharthagolu.com/posts/reading/parenting/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/2833252009&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.siddharthagolu.com/images/parenting.jpg#center&#34; alt=&#34;Parenting Cover&#34; title=&#34;Parenting Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I have had a very curious relationship with religion, although now that I talk to others, it was a much more normal experience than what I led myself to believe. I followed the typical path of receiving a particular religion from my parents (born a &amp;ldquo;Hindu child&amp;rdquo;), which had a supporting role in my life up until my late-teenage/early-adolescent years.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Winter Sleep (2014) by Nuri Bilge Ceylan</title>
-      <link>http://localhost:1313/posts/cinema/winter-sleep/</link>
+      <link>https://www.siddharthagolu.com/posts/cinema/winter-sleep/</link>
       <pubDate>Mon, 15 Mar 2021 21:30:40 +0530</pubDate>
-      <guid>http://localhost:1313/posts/cinema/winter-sleep/</guid>
-      <description>&lt;p&gt;Verdict: &lt;!-- raw HTML omitted --&gt; ★ ★ ★ ★ ★ &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://letterboxd.com/carte_blanche/film/winter-sleep/&#34;&gt;Check it out on Letterboxd&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/winter_sleep.webp#center&#34; alt=&#34;Winter sleep Cover&#34; title=&#34;Winter sleep Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Over the years, I have increasingly gravitated towards films where supposedly &amp;ldquo;nothing happens&amp;rdquo;. Characters talk, no attempt is made to instill a moral point into the minds of the audience, which is usually accompanied with long, patient shots of people existing in their environments. This was an excellent specimen of the same dish.&lt;/p&gt;</description>
+      <guid>https://www.siddharthagolu.com/posts/cinema/winter-sleep/</guid>
+      <description>&lt;p&gt;Verdict: &lt;!-- raw HTML omitted --&gt; ★ ★ ★ ★ ★ &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://letterboxd.com/carte_blanche/film/winter-sleep/&#34;&gt;Check it out on Letterboxd&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.siddharthagolu.com/images/winter_sleep.webp#center&#34; alt=&#34;Winter sleep Cover&#34; title=&#34;Winter sleep Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Over the years, I have increasingly gravitated towards films where supposedly &amp;ldquo;nothing happens&amp;rdquo;. Characters talk, no attempt is made to instill a moral point into the minds of the audience, which is usually accompanied with long, patient shots of people existing in their environments. This was an excellent specimen of the same dish.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Once Upon a Time in Anatolia (2011) by Nuri Bilge Ceylan</title>
-      <link>http://localhost:1313/posts/cinema/anatolia/</link>
+      <link>https://www.siddharthagolu.com/posts/cinema/anatolia/</link>
       <pubDate>Sun, 07 Feb 2021 22:44:49 +0530</pubDate>
-      <guid>http://localhost:1313/posts/cinema/anatolia/</guid>
+      <guid>https://www.siddharthagolu.com/posts/cinema/anatolia/</guid>
       <description>&lt;p&gt;Verdict: &lt;!-- raw HTML omitted --&gt; ★ ★ ★ ★ ☆ &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://letterboxd.com/carte_blanche/film/once-upon-a-time-in-anatolia/&#34;&gt;Check it out on Letterboxd&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;A slow, methodical display of patience and absurdity juxtaposed on the vast landscape, this film has something else going for it. When you read the synopsis or look at the posters, you expect a certain police procedural drama - the kind of which you&amp;rsquo;ve been accustomed to till date. What you get is a completely different take on the trope.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Riding Solo to the Top of the World (2006) by Gaurav Jani</title>
-      <link>http://localhost:1313/posts/cinema/riding-solo/</link>
+      <link>https://www.siddharthagolu.com/posts/cinema/riding-solo/</link>
       <pubDate>Sun, 03 Jan 2021 22:53:01 +0530</pubDate>
-      <guid>http://localhost:1313/posts/cinema/riding-solo/</guid>
+      <guid>https://www.siddharthagolu.com/posts/cinema/riding-solo/</guid>
       <description>&lt;p&gt;Verdict: &lt;!-- raw HTML omitted --&gt; ★ ★ ★ ★ ★ &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://letterboxd.com/carte_blanche/film/oslo-august-31st/&#34;&gt;Check it out on Letterboxd&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Motorcycling community is laden with fist-pumping-muscle-bulging-neckbeardy-speed-ninjas-Harley-fans, and it usually gets a bad rap all across the world. Gaurav Jani is none of these things. His passion and humility and curious nature reminded me why I loved biking in the first place. This is a must-watch for anyone fascinated with two wheels and the places they enable you to visit.&lt;/p&gt;</description>
     </item>
     <item>
       <title>I Do What I Do by Raghuram Rajan</title>
-      <link>http://localhost:1313/posts/reading/i-do-what-i-do/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/i-do-what-i-do/</link>
       <pubDate>Sat, 19 Dec 2020 09:24:30 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/i-do-what-i-do/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/3659132372&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/rajan.jpg#center&#34; alt=&#34;Rajan cover&#34; title=&#34;Rajan Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I had picked up this one thinking it to be an autobiography, and with an expectation that it&amp;rsquo;ll cover Rajan&amp;rsquo;s tussles with the government in more details. I was pleasantly surprised to find instead a good collection of technical essays covering the workings of RBI, and economics in general. If you&amp;rsquo;re looking for a good explanatory work in the field of Economics (and especially those concerning India and its policies), you&amp;rsquo;ll enjoy this.&lt;/p&gt;</description>
+      <guid>https://www.siddharthagolu.com/posts/reading/i-do-what-i-do/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/3659132372&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.siddharthagolu.com/images/rajan.jpg#center&#34; alt=&#34;Rajan cover&#34; title=&#34;Rajan Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I had picked up this one thinking it to be an autobiography, and with an expectation that it&amp;rsquo;ll cover Rajan&amp;rsquo;s tussles with the government in more details. I was pleasantly surprised to find instead a good collection of technical essays covering the workings of RBI, and economics in general. If you&amp;rsquo;re looking for a good explanatory work in the field of Economics (and especially those concerning India and its policies), you&amp;rsquo;ll enjoy this.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Waking Life (2001) by Richard Linklater</title>
-      <link>http://localhost:1313/posts/cinema/waking-life/</link>
+      <link>https://www.siddharthagolu.com/posts/cinema/waking-life/</link>
       <pubDate>Fri, 27 Nov 2020 22:57:50 +0530</pubDate>
-      <guid>http://localhost:1313/posts/cinema/waking-life/</guid>
+      <guid>https://www.siddharthagolu.com/posts/cinema/waking-life/</guid>
       <description>&lt;p&gt;Verdict: &lt;!-- raw HTML omitted --&gt; ★ ★ ★ ☆ ☆ &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://letterboxd.com/carte_blanche/film/waking-life/&#34;&gt;Check it out on Letterboxd&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;There are films which you wish you had watched earlier in life, and there are others which don&amp;rsquo;t make sense until you have had your fair share of world experiences. Waking Life falls in the former category.&lt;/p&gt;&#xA;&lt;p&gt;The college sophomore me would have been really excited about discussing vague notions of self and freedom and free will and morality and dreams - and don&amp;rsquo;t get me wrong, mid-twenties me is equally as excited about these things as my former self, if not more so - but the problem lies in the superficiality of it all. Now that I&amp;rsquo;ve had more nuanced discussions about these philosophical conundrums and have read a fair amount of academic literature, the surface level discussions here leave a lot to be desired.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Azadi by Arundhati Roy</title>
-      <link>http://localhost:1313/posts/reading/azadi/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/azadi/</link>
       <pubDate>Wed, 30 Sep 2020 22:22:13 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/azadi/</guid>
+      <guid>https://www.siddharthagolu.com/posts/reading/azadi/</guid>
       <description>A series of essays on the bleak reality in India. Highly recommended.</description>
     </item>
     <item>
       <title>Stoner by John Williams</title>
-      <link>http://localhost:1313/posts/reading/stoner/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/stoner/</link>
       <pubDate>Sun, 28 Jun 2020 19:45:36 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/stoner/</guid>
+      <guid>https://www.siddharthagolu.com/posts/reading/stoner/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/1389128822&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Reading fiction has always been a double-edged sword for me. Some of the most intimate moments I&amp;rsquo;ve spent alone is while reading fictional stories, while at the same time, feeling a pang of disappointment for myself because I wasn&amp;rsquo;t doing anything &amp;ldquo;productive.&amp;rdquo; Is this mere entertainment? Am I just escaping my real-life responsibilities and reading stories of make-believe? While I still haven&amp;rsquo;t found sincere answers to these questions, I&amp;rsquo;ve grown more confident of what I enjoy and what I don&amp;rsquo;t, which has consequently helped me find peace with this conflict. Over the years, I&amp;rsquo;ve realized that reading good literature is therapeutic for me - not to be used as an afterthought but essential to keep me functional.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Beautiful Woman</title>
-      <link>http://localhost:1313/posts/drawings/a-beautiful-woman/</link>
+      <link>https://www.siddharthagolu.com/posts/drawings/a-beautiful-woman/</link>
       <pubDate>Tue, 09 Jun 2020 17:26:51 +0530</pubDate>
-      <guid>http://localhost:1313/posts/drawings/a-beautiful-woman/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;p&gt;I don&amp;rsquo;t know why, but I liked the eyes-only version more. Linked below is the work-in-progress sketch:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/lady_partial.jpg&#34; alt=&#34;Work in progress&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://www.siddharthagolu.com/posts/drawings/a-beautiful-woman/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;I don&amp;rsquo;t know why, but I liked the eyes-only version more. Linked below is the work-in-progress sketch:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.siddharthagolu.com/images/lady_partial.jpg&#34; alt=&#34;Work in progress&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Martin Freeman</title>
-      <link>http://localhost:1313/posts/drawings/martin-freeman/</link>
+      <link>https://www.siddharthagolu.com/posts/drawings/martin-freeman/</link>
       <pubDate>Tue, 09 Jun 2020 17:20:16 +0530</pubDate>
-      <guid>http://localhost:1313/posts/drawings/martin-freeman/</guid>
+      <guid>https://www.siddharthagolu.com/posts/drawings/martin-freeman/</guid>
       <description>&lt;hr&gt;&#xA;&lt;p&gt;I used to be obsessed with Sherlock (the HBO show) during the time it aired, and part of my fascination was with Martin Freeman here, who so brilliantly played the role of Watson.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Einstein</title>
-      <link>http://localhost:1313/posts/drawings/einstein/</link>
+      <link>https://www.siddharthagolu.com/posts/drawings/einstein/</link>
       <pubDate>Tue, 09 Jun 2020 17:14:48 +0530</pubDate>
-      <guid>http://localhost:1313/posts/drawings/einstein/</guid>
+      <guid>https://www.siddharthagolu.com/posts/drawings/einstein/</guid>
       <description>&lt;hr&gt;&#xA;&lt;p&gt;I have a particular affinity towards this sketch as I was very apprehensive about attempting Einstein, his face had much more complexity than what I usually dealt with, but it turned out good enough in the end.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mother Teresa</title>
-      <link>http://localhost:1313/posts/drawings/teresa/</link>
+      <link>https://www.siddharthagolu.com/posts/drawings/teresa/</link>
       <pubDate>Tue, 09 Jun 2020 17:09:43 +0530</pubDate>
-      <guid>http://localhost:1313/posts/drawings/teresa/</guid>
+      <guid>https://www.siddharthagolu.com/posts/drawings/teresa/</guid>
       <description>&lt;hr&gt;&#xA;&lt;p&gt;Completely botched this drawing, but it reminds me of the drawing streak I used to have back when I was in my hometown during college vacations.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Charlie Chaplin (um... not quite)</title>
-      <link>http://localhost:1313/posts/drawings/chaplin/</link>
+      <link>https://www.siddharthagolu.com/posts/drawings/chaplin/</link>
       <pubDate>Tue, 09 Jun 2020 17:01:36 +0530</pubDate>
-      <guid>http://localhost:1313/posts/drawings/chaplin/</guid>
+      <guid>https://www.siddharthagolu.com/posts/drawings/chaplin/</guid>
       <description>&lt;hr&gt;&#xA;&lt;p&gt;I was either on acid or I had watched a sad movie before attempting this piece. A strange juxtaposition of Chaplin and Hitler.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gandhi</title>
-      <link>http://localhost:1313/posts/drawings/gandhi/</link>
+      <link>https://www.siddharthagolu.com/posts/drawings/gandhi/</link>
       <pubDate>Tue, 09 Jun 2020 16:51:23 +0530</pubDate>
-      <guid>http://localhost:1313/posts/drawings/gandhi/</guid>
+      <guid>https://www.siddharthagolu.com/posts/drawings/gandhi/</guid>
       <description>&lt;hr&gt;&#xA;&lt;p&gt;My first attempt at drawing after dabbling in caricature pieces in my childhood :)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Oslo, August 31st (2011) by Joachim Trier</title>
-      <link>http://localhost:1313/posts/cinema/oslo-august/</link>
+      <link>https://www.siddharthagolu.com/posts/cinema/oslo-august/</link>
       <pubDate>Thu, 04 Jun 2020 14:39:00 +0530</pubDate>
-      <guid>http://localhost:1313/posts/cinema/oslo-august/</guid>
+      <guid>https://www.siddharthagolu.com/posts/cinema/oslo-august/</guid>
       <description>&lt;p&gt;Verdict: &lt;!-- raw HTML omitted --&gt; ★ ★ ★ ★ ☆ &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://letterboxd.com/carte_blanche/film/oslo-august-31st/&#34;&gt;Check out this review on Letterboxd&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Anhedonia&lt;/strong&gt;. The Wikipedia entry for this word says:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;a diverse array of deficits in hedonic function, including reduced motivation or ability to experience pleasure.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;At one point or another, we have all experienced some version of this phenomenon - may be characterized by an oversaturation of love, or caused by a prolonged mediocrity in life, or as in the case of our protagonist here, the complete loss of will and motivation to feel anything.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bad Blood by John Carreyrou</title>
-      <link>http://localhost:1313/posts/reading/bad-blood/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/bad-blood/</link>
       <pubDate>Fri, 01 May 2020 23:39:18 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/bad-blood/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/2635590846&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/bad_blood.webp#center&#34; alt=&#34;Bad Blood Cover&#34; title=&#34;Bad Blood Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-to-fool-the-world-and-become-a-billionaire&#34;&gt;How to fool the world and become a Billionaire&lt;/h2&gt;&#xA;&lt;p&gt;I remember hearing about &lt;em&gt;Elizabeth Holmes&lt;/em&gt; when I was in my late teens, at that impressionable age when you get hyper-inspired by reading about icons that are going to change the world. There was a profile of her in Wired, with an eye-catching image of her wearing a turtleneck black sweater holding what looked like a test-tube with a tiny amount of blood with a science-y background. I remember it had made quite a distinct impression on my mind, no doubt helped by the fact that the profile had described her as &lt;em&gt;&amp;ldquo;this Stanford dropout 20-something who was hailed as being a younger version of Einstein, was going to change the world&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;</description>
+      <guid>https://www.siddharthagolu.com/posts/reading/bad-blood/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/2635590846&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.siddharthagolu.com/images/bad_blood.webp#center&#34; alt=&#34;Bad Blood Cover&#34; title=&#34;Bad Blood Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-to-fool-the-world-and-become-a-billionaire&#34;&gt;How to fool the world and become a Billionaire&lt;/h2&gt;&#xA;&lt;p&gt;I remember hearing about &lt;em&gt;Elizabeth Holmes&lt;/em&gt; when I was in my late teens, at that impressionable age when you get hyper-inspired by reading about icons that are going to change the world. There was a profile of her in Wired, with an eye-catching image of her wearing a turtleneck black sweater holding what looked like a test-tube with a tiny amount of blood with a science-y background. I remember it had made quite a distinct impression on my mind, no doubt helped by the fact that the profile had described her as &lt;em&gt;&amp;ldquo;this Stanford dropout 20-something who was hailed as being a younger version of Einstein, was going to change the world&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fear</title>
-      <link>http://localhost:1313/posts/scared-in-lockdown/</link>
+      <link>https://www.siddharthagolu.com/posts/scared-in-lockdown/</link>
       <pubDate>Sat, 25 Apr 2020 23:45:30 +0530</pubDate>
-      <guid>http://localhost:1313/posts/scared-in-lockdown/</guid>
+      <guid>https://www.siddharthagolu.com/posts/scared-in-lockdown/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/p/B_Znc5AB_hK/&#34;&gt;Check it out on Instagram&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I&amp;rsquo;m scared.&lt;/p&gt;&#xA;&lt;p&gt;No, not because there&amp;rsquo;s a pandemic going on,&lt;br&gt;&#xA;even though that itself is enough&lt;br&gt;&#xA;to make one lose their mind.&lt;/p&gt;&#xA;&lt;p&gt;There&amp;rsquo;s another deadly virus crawling&lt;br&gt;&#xA;its way into my whole being.&lt;br&gt;&#xA;Slowly eating away at my sanity,&lt;br&gt;&#xA;feasting on my thoughts,&lt;br&gt;&#xA;mutating inside my head as if a colony of ants was given&lt;br&gt;&#xA;an open invitation to a room full of sugary syrup.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Waking Up by Sam Harris</title>
-      <link>http://localhost:1313/posts/reading/waking-up/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/waking-up/</link>
       <pubDate>Wed, 15 Apr 2020 23:31:08 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/waking-up/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/3272821691&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/waking_up.webp#center&#34; alt=&#34;Waking up cover&#34; title=&#34;Waking up Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;a-disappointing-jumble-of-thoughts&#34;&gt;A disappointing jumble of thoughts&lt;/h2&gt;&#xA;&lt;p&gt;Disappointed.&lt;/p&gt;&#xA;&lt;p&gt;I am an atheist interested in the power of mindfulness and the whole world of so-called spirituality, so naturally, I am the ideal audience that Sam Harris is looking for. But it disappointed in almost every domain that I had expectations in. Using deep-sounding difficult words and wrapping them in an almost mythical aura of &amp;ldquo;Consciousness&amp;rdquo;, this one was a huge letdown. The irony is that I&amp;rsquo;ve been following his mindfulness meditation course and it&amp;rsquo;s been the opposite experience there - in fact, his meditation course itself was what motivated me to pick up this book.&lt;/p&gt;</description>
+      <guid>https://www.siddharthagolu.com/posts/reading/waking-up/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/3272821691&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.siddharthagolu.com/images/waking_up.webp#center&#34; alt=&#34;Waking up cover&#34; title=&#34;Waking up Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;a-disappointing-jumble-of-thoughts&#34;&gt;A disappointing jumble of thoughts&lt;/h2&gt;&#xA;&lt;p&gt;Disappointed.&lt;/p&gt;&#xA;&lt;p&gt;I am an atheist interested in the power of mindfulness and the whole world of so-called spirituality, so naturally, I am the ideal audience that Sam Harris is looking for. But it disappointed in almost every domain that I had expectations in. Using deep-sounding difficult words and wrapping them in an almost mythical aura of &amp;ldquo;Consciousness&amp;rdquo;, this one was a huge letdown. The irony is that I&amp;rsquo;ve been following his mindfulness meditation course and it&amp;rsquo;s been the opposite experience there - in fact, his meditation course itself was what motivated me to pick up this book.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Glimpses of World History by Jawaharlal Nehru</title>
-      <link>http://localhost:1313/posts/reading/glimpses-of-world-history/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/glimpses-of-world-history/</link>
       <pubDate>Thu, 12 Mar 2020 23:23:19 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/glimpses-of-world-history/</guid>
+      <guid>https://www.siddharthagolu.com/posts/reading/glimpses-of-world-history/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/2891482793&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;world-history-in-a-nutshell&#34;&gt;World history in a nutshell&lt;/h2&gt;&#xA;&lt;p&gt;More than 1100 pages, this behemoth of a book still fails to capture the whole essence of world history - and rightly so. How can you combine over 2000 years of human history and still do justice to every element? But the unique manner in which this book - or more appropriately, collection of letters - has been written, it shines brightly amongst the plethora of history books you can find on this vast subject of world history.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Darjeeling Limited (2007) by Wes Anderson</title>
-      <link>http://localhost:1313/posts/cinema/darjeeling/</link>
+      <link>https://www.siddharthagolu.com/posts/cinema/darjeeling/</link>
       <pubDate>Wed, 04 Mar 2020 23:01:15 +0530</pubDate>
-      <guid>http://localhost:1313/posts/cinema/darjeeling/</guid>
+      <guid>https://www.siddharthagolu.com/posts/cinema/darjeeling/</guid>
       <description>Wes Anderson and his colorful quirks</description>
     </item>
     <item>
       <title>Reasons to Stay Alive by Matt Haig</title>
-      <link>http://localhost:1313/posts/reading/reasons-to-stay-alive/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/reasons-to-stay-alive/</link>
       <pubDate>Tue, 28 Jan 2020 22:28:18 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/reasons-to-stay-alive/</guid>
+      <guid>https://www.siddharthagolu.com/posts/reading/reasons-to-stay-alive/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/3161153699&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reasons you should read this book:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;If you&amp;rsquo;ve ever had a panic attack.&lt;/li&gt;&#xA;&lt;li&gt;If you&amp;rsquo;ve ever counted the number of times the ceiling fan rotates, just so you could avoid dealing with the endless voices in your head.&lt;/li&gt;&#xA;&lt;li&gt;If you&amp;rsquo;ve ever felt ashamed to admit that you might be suffering from the D-word.&lt;/li&gt;&#xA;&lt;li&gt;If reading about personal stories of how people overcame their mental illnesses soothes you.&lt;/li&gt;&#xA;&lt;li&gt;Because why not.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;A lucid, non-linear and a sort of haphazard look at the most personal struggle anyone can go through, give this one a read if you want to know what it feels like to have depression.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to Listen to and Understand Great Music by Robert Greenberg</title>
-      <link>http://localhost:1313/posts/reading/great-music/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/great-music/</link>
       <pubDate>Thu, 16 Jan 2020 22:05:06 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/great-music/</guid>
+      <guid>https://www.siddharthagolu.com/posts/reading/great-music/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/3030817409&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I have been a lover of music since my early childhood - runs in the family - and have imitated and performed songs (mostly inside my own head) on numerous occasions. Despite this lifelong love affair with music of all kinds, there was one particular genre of music that always baffled me. Mostly because of my own ignorance, but partially also because nobody else was talking about it. Nobody else in my own vicinity that is. It didn&amp;rsquo;t play on the radio, you won&amp;rsquo;t hear it playing on any of the countless music channels and certainly, nobody was going on tours giving live performances.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Behave: The Biology of Humans at Our Best and Worst by Robert Sapolsky</title>
-      <link>http://localhost:1313/posts/reading/behave-review/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/behave-review/</link>
       <pubDate>Thu, 12 Sep 2019 20:12:10 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/behave-review/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/2234337819&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/behave.webp#center&#34; alt=&#34;Behave cover&#34; title=&#34;Behave cover&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;There are few books which leave you in a mesmerizing state after having read them. You ponder about it for days to come, want to scream your head off about it to anyone who&amp;rsquo;d listen, and then dwell in this fear of picking up another book because how can something else ever come close to being this perfect!&#xA;I have felt this way before - first when I&amp;rsquo;d finished &lt;a href=&#34;https://www.goodreads.com/book/show/188572.The_Complete_Sherlock_Holmes&#34;&gt;The Complete Sherlock&#xA;Holmes&lt;/a&gt;, later when I was left&#xA;in a daze for multiple days after finishing the notorious and brilliant &lt;a href=&#34;https://www.goodreads.com/review/show/1736892374&#34;&gt;House of Leaves&lt;/a&gt;, and much more recently when I was unable&#xA;to sleep after reading &lt;a href=&#34;https://www.goodreads.com/review/show/2630378184&#34;&gt;Why We Sleep by Matthew Walker&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://www.siddharthagolu.com/posts/reading/behave-review/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/2234337819&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.siddharthagolu.com/images/behave.webp#center&#34; alt=&#34;Behave cover&#34; title=&#34;Behave cover&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;There are few books which leave you in a mesmerizing state after having read them. You ponder about it for days to come, want to scream your head off about it to anyone who&amp;rsquo;d listen, and then dwell in this fear of picking up another book because how can something else ever come close to being this perfect!&#xA;I have felt this way before - first when I&amp;rsquo;d finished &lt;a href=&#34;https://www.goodreads.com/book/show/188572.The_Complete_Sherlock_Holmes&#34;&gt;The Complete Sherlock&#xA;Holmes&lt;/a&gt;, later when I was left&#xA;in a daze for multiple days after finishing the notorious and brilliant &lt;a href=&#34;https://www.goodreads.com/review/show/1736892374&#34;&gt;House of Leaves&lt;/a&gt;, and much more recently when I was unable&#xA;to sleep after reading &lt;a href=&#34;https://www.goodreads.com/review/show/2630378184&#34;&gt;Why We Sleep by Matthew Walker&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Range by David Epstein</title>
-      <link>http://localhost:1313/posts/reading/range-a-review/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/range-a-review/</link>
       <pubDate>Thu, 05 Sep 2019 00:16:14 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/range-a-review/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/2918108710&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/range_kindle.webp#center&#34; alt=&#34;Range cover&#34; title=&#34;Range cover&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Started with a tightly-knit structure, but faltered at the end. The last few chapters were a slog to get through - mostly because of numerous &amp;ldquo;business-class&amp;rdquo; style case studies.&lt;/p&gt;&#xA;&lt;p&gt;Main takeaway? Other than the central idea around which the book revolves (and succinctly mentioned as the book subtitle too), the&#xA;idea of interleaving is what struck me the most. I had already read about this particular method in &lt;strong&gt;Michael Nielsen&amp;rsquo;s brilliant&#xA;post&lt;/strong&gt; on Anki (&lt;a href=&#34;http://augmentingcognition.com/ltm.html&#34;&gt;&amp;ldquo;Augmenting Long-term Memory&amp;rdquo;&lt;/a&gt;) and it was interesting to read about it formally in the book. Interleaving is the technique of mixing up your learning in varied environments so that it makes some unusual connections that you&amp;rsquo;d normally won&amp;rsquo;t think about - and might come in handy when you are faced with a problem in a new environment you haven&amp;rsquo;t previously encountered.&lt;/p&gt;</description>
+      <guid>https://www.siddharthagolu.com/posts/reading/range-a-review/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/2918108710&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.siddharthagolu.com/images/range_kindle.webp#center&#34; alt=&#34;Range cover&#34; title=&#34;Range cover&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Started with a tightly-knit structure, but faltered at the end. The last few chapters were a slog to get through - mostly because of numerous &amp;ldquo;business-class&amp;rdquo; style case studies.&lt;/p&gt;&#xA;&lt;p&gt;Main takeaway? Other than the central idea around which the book revolves (and succinctly mentioned as the book subtitle too), the&#xA;idea of interleaving is what struck me the most. I had already read about this particular method in &lt;strong&gt;Michael Nielsen&amp;rsquo;s brilliant&#xA;post&lt;/strong&gt; on Anki (&lt;a href=&#34;http://augmentingcognition.com/ltm.html&#34;&gt;&amp;ldquo;Augmenting Long-term Memory&amp;rdquo;&lt;/a&gt;) and it was interesting to read about it formally in the book. Interleaving is the technique of mixing up your learning in varied environments so that it makes some unusual connections that you&amp;rsquo;d normally won&amp;rsquo;t think about - and might come in handy when you are faced with a problem in a new environment you haven&amp;rsquo;t previously encountered.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Deference vs. Indifference</title>
-      <link>http://localhost:1313/posts/deference-vs-indifference/</link>
+      <link>https://www.siddharthagolu.com/posts/deference-vs-indifference/</link>
       <pubDate>Fri, 15 Mar 2019 22:27:30 +0530</pubDate>
-      <guid>http://localhost:1313/posts/deference-vs-indifference/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/160696242@N07/46619008205/&#34;&gt;(See this picture on Flickr)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/the-solitude.webp#center&#34; alt=&#34;Lake cover&#34; title=&#34;Lake cover&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;deference-vs-indifference&#34;&gt;Deference vs. Indifference&lt;/h2&gt;&#xA;&lt;p&gt;There used to be a time&lt;br&gt;&#xA;when things used to be simple.&lt;br&gt;&#xA;I&amp;rsquo;d wake up, rub my eyes, sit up straight, close my eyes,&lt;br&gt;&#xA;And pray that He will continue to guide me&lt;br&gt;&#xA;as He had done the previous day.&lt;br&gt;&#xA;There used to be a time&lt;br&gt;&#xA;when I used to love the aroma&lt;br&gt;&#xA;of the stick when it burned,&lt;br&gt;&#xA;lighting up my day with the secret enchantments,&lt;br&gt;&#xA;as if the secrecy itself was the source of my happiness.&lt;/p&gt;</description>
+      <guid>https://www.siddharthagolu.com/posts/deference-vs-indifference/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/160696242@N07/46619008205/&#34;&gt;(See this picture on Flickr)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.siddharthagolu.com/images/the-solitude.webp#center&#34; alt=&#34;Lake cover&#34; title=&#34;Lake cover&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;deference-vs-indifference&#34;&gt;Deference vs. Indifference&lt;/h2&gt;&#xA;&lt;p&gt;There used to be a time&lt;br&gt;&#xA;when things used to be simple.&lt;br&gt;&#xA;I&amp;rsquo;d wake up, rub my eyes, sit up straight, close my eyes,&lt;br&gt;&#xA;And pray that He will continue to guide me&lt;br&gt;&#xA;as He had done the previous day.&lt;br&gt;&#xA;There used to be a time&lt;br&gt;&#xA;when I used to love the aroma&lt;br&gt;&#xA;of the stick when it burned,&lt;br&gt;&#xA;lighting up my day with the secret enchantments,&lt;br&gt;&#xA;as if the secrecy itself was the source of my happiness.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Course of Love by Alain de Botton</title>
-      <link>http://localhost:1313/posts/reading/the-course-of-love/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/the-course-of-love/</link>
       <pubDate>Thu, 14 Feb 2019 20:21:45 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/the-course-of-love/</guid>
+      <guid>https://www.siddharthagolu.com/posts/reading/the-course-of-love/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/1855122398&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;The School of Life - a massively popular YouTube channel - used to be this source of solace in some turbulent times of my college life.&#xA;It is not something that you&amp;rsquo;d think would be cheerful and uplifting - a quick glance at some of the most popular videos of the channel would include titles such as &lt;a href=&#34;https://www.youtube.com/watch?v=WRaaqN2Atxw&#34;&gt;&amp;ldquo;Why we go cold on our partners&amp;rdquo;&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=zuKV2DI9-Jg&#34;&gt;&amp;ldquo;Why you will marry the wrong person&amp;rdquo;&lt;/a&gt; etc.&#xA;The honest yet straightforward mannger in which the narrator calmly tells us that even though it might feel like this is the worst possible time of your life, it is not usually so - it was a comforting thought - to feel and accept that things are fucked up and move on with quiet resignation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Stranger and The Plague by Albert Camus</title>
-      <link>http://localhost:1313/posts/reading/the-stranger-and-the-plague-a-review/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/the-stranger-and-the-plague-a-review/</link>
       <pubDate>Mon, 21 Jan 2019 14:39:14 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/the-stranger-and-the-plague-a-review/</guid>
+      <guid>https://www.siddharthagolu.com/posts/reading/the-stranger-and-the-plague-a-review/</guid>
       <description>&lt;h1 id=&#34;preamble&#34;&gt;Preamble&lt;/h1&gt;&#xA;&lt;p&gt;Philosophy has always been one of those baffling things that entice you at first by its simplicity, but as you get sucked into it more and more, you find yourself searching for the end of this labyrinthine landscape. I had my first exposure to anything related to philosophy in my second year of college when I stumbled upon &lt;strong&gt;The Fountainhead by Ayn Rand&lt;/strong&gt;. At the time, it was one of the fascinating books I had ever read. I distinctly remember sitting down with the book at 9 PM having had my dinner, and as the custom goes, was looking forward to reading anything that could distract me from the mountain load of coursework that I had to finish for the upcoming semester exams. I became so engrossed in the story that when I finished the book and went outside to take in a fresh breath of air - I was startled to discover that the sunlight was already shining throughout the corridor - it was 7 o&amp;rsquo;clock in the morning!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>On Depression and Recovery</title>
-      <link>http://localhost:1313/posts/on-depression-and-recovery/</link>
-      <pubDate>Thu, 17 Jan 2019 01:24:41 +0530</pubDate>
-      <guid>http://localhost:1313/posts/on-depression-and-recovery/</guid>
-      <description>&lt;p&gt;Depression is a very heavy handed word, and probably the most misunderstood one too. It stealthily engulfs you in its tight grasp,&#xA;attackiong when you least expect it to. One moment you&amp;rsquo;re enjoying the weather, basking in the glory of some happy thought, maybe&#xA;remembering that on thing that your partner did for you - and suddenly from this wave of happy and positive emotions, a tiny&#xA;splash comes towards you - the splash of doubt. Was your colleague being sarcastic when he was praising your work?&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Health on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/health/</link>
-    <description>Recent content in Health on My New Hugo Site</description>
+    <title>Health on Siddhartha Golu</title>
+    <link>https://www.siddharthagolu.com/tags/health/</link>
+    <description>Recent content in Health on Siddhartha Golu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Aug 2021 20:09:56 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/health/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.siddharthagolu.com/tags/health/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What I Talk About When I Talk About Running by Haruki Murakami</title>
-      <link>http://localhost:1313/posts/reading/running-murakami/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/running-murakami/</link>
       <pubDate>Sat, 14 Aug 2021 20:09:56 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/running-murakami/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/4168404043&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/running-murakami.jpg#center&#34; alt=&#34;Running Cover&#34; title=&#34;Running Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Pain is inevitable, suffering is optional.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;I have no affinity for running, even for short jogs, and much less for wanting to run long distances. Although this is not because I hate exercises - one of those rare things that I figured out early in life was my desire to remain healthy as long as possible and that of course means I need to keep myself fit - but probably my distaste for running stems from the monotonous nature of the activity. You keep pounding your legs with a short breath and no rest in sight, what is there to&#xA;enjoy and look forward to?&lt;/p&gt;</description>
+      <guid>https://www.siddharthagolu.com/posts/reading/running-murakami/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/4168404043&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.siddharthagolu.com/images/running-murakami.jpg#center&#34; alt=&#34;Running Cover&#34; title=&#34;Running Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Pain is inevitable, suffering is optional.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;I have no affinity for running, even for short jogs, and much less for wanting to run long distances. Although this is not because I hate exercises - one of those rare things that I figured out early in life was my desire to remain healthy as long as possible and that of course means I need to keep myself fit - but probably my distaste for running stems from the monotonous nature of the activity. You keep pounding your legs with a short breath and no rest in sight, what is there to&#xA;enjoy and look forward to?&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Poetry on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/poetry/</link>
-    <description>Recent content in Poetry on My New Hugo Site</description>
+    <title>Poetry on Siddhartha Golu</title>
+    <link>https://www.siddharthagolu.com/tags/poetry/</link>
+    <description>Recent content in Poetry on Siddhartha Golu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Apr 2020 23:45:30 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/poetry/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.siddharthagolu.com/tags/poetry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fear</title>
-      <link>http://localhost:1313/posts/scared-in-lockdown/</link>
+      <link>https://www.siddharthagolu.com/posts/scared-in-lockdown/</link>
       <pubDate>Sat, 25 Apr 2020 23:45:30 +0530</pubDate>
-      <guid>http://localhost:1313/posts/scared-in-lockdown/</guid>
+      <guid>https://www.siddharthagolu.com/posts/scared-in-lockdown/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/p/B_Znc5AB_hK/&#34;&gt;Check it out on Instagram&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I&amp;rsquo;m scared.&lt;/p&gt;&#xA;&lt;p&gt;No, not because there&amp;rsquo;s a pandemic going on,&lt;br&gt;&#xA;even though that itself is enough&lt;br&gt;&#xA;to make one lose their mind.&lt;/p&gt;&#xA;&lt;p&gt;There&amp;rsquo;s another deadly virus crawling&lt;br&gt;&#xA;its way into my whole being.&lt;br&gt;&#xA;Slowly eating away at my sanity,&lt;br&gt;&#xA;feasting on my thoughts,&lt;br&gt;&#xA;mutating inside my head as if a colony of ants was given&lt;br&gt;&#xA;an open invitation to a room full of sugary syrup.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Deference vs. Indifference</title>
-      <link>http://localhost:1313/posts/deference-vs-indifference/</link>
+      <link>https://www.siddharthagolu.com/posts/deference-vs-indifference/</link>
       <pubDate>Fri, 15 Mar 2019 22:27:30 +0530</pubDate>
-      <guid>http://localhost:1313/posts/deference-vs-indifference/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/160696242@N07/46619008205/&#34;&gt;(See this picture on Flickr)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/the-solitude.webp#center&#34; alt=&#34;Lake cover&#34; title=&#34;Lake cover&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;deference-vs-indifference&#34;&gt;Deference vs. Indifference&lt;/h2&gt;&#xA;&lt;p&gt;There used to be a time&lt;br&gt;&#xA;when things used to be simple.&lt;br&gt;&#xA;I&amp;rsquo;d wake up, rub my eyes, sit up straight, close my eyes,&lt;br&gt;&#xA;And pray that He will continue to guide me&lt;br&gt;&#xA;as He had done the previous day.&lt;br&gt;&#xA;There used to be a time&lt;br&gt;&#xA;when I used to love the aroma&lt;br&gt;&#xA;of the stick when it burned,&lt;br&gt;&#xA;lighting up my day with the secret enchantments,&lt;br&gt;&#xA;as if the secrecy itself was the source of my happiness.&lt;/p&gt;</description>
+      <guid>https://www.siddharthagolu.com/posts/deference-vs-indifference/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/160696242@N07/46619008205/&#34;&gt;(See this picture on Flickr)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.siddharthagolu.com/images/the-solitude.webp#center&#34; alt=&#34;Lake cover&#34; title=&#34;Lake cover&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;deference-vs-indifference&#34;&gt;Deference vs. Indifference&lt;/h2&gt;&#xA;&lt;p&gt;There used to be a time&lt;br&gt;&#xA;when things used to be simple.&lt;br&gt;&#xA;I&amp;rsquo;d wake up, rub my eyes, sit up straight, close my eyes,&lt;br&gt;&#xA;And pray that He will continue to guide me&lt;br&gt;&#xA;as He had done the previous day.&lt;br&gt;&#xA;There used to be a time&lt;br&gt;&#xA;when I used to love the aroma&lt;br&gt;&#xA;of the stick when it burned,&lt;br&gt;&#xA;lighting up my day with the secret enchantments,&lt;br&gt;&#xA;as if the secrecy itself was the source of my happiness.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

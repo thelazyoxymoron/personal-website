@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Journalism on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/journalism/</link>
-    <description>Recent content in Journalism on My New Hugo Site</description>
+    <title>Journalism on Siddhartha Golu</title>
+    <link>https://www.siddharthagolu.com/tags/journalism/</link>
+    <description>Recent content in Journalism on Siddhartha Golu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 May 2020 23:39:18 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/journalism/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.siddharthagolu.com/tags/journalism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bad Blood by John Carreyrou</title>
-      <link>http://localhost:1313/posts/reading/bad-blood/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/bad-blood/</link>
       <pubDate>Fri, 01 May 2020 23:39:18 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/bad-blood/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/2635590846&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/bad_blood.webp#center&#34; alt=&#34;Bad Blood Cover&#34; title=&#34;Bad Blood Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-to-fool-the-world-and-become-a-billionaire&#34;&gt;How to fool the world and become a Billionaire&lt;/h2&gt;&#xA;&lt;p&gt;I remember hearing about &lt;em&gt;Elizabeth Holmes&lt;/em&gt; when I was in my late teens, at that impressionable age when you get hyper-inspired by reading about icons that are going to change the world. There was a profile of her in Wired, with an eye-catching image of her wearing a turtleneck black sweater holding what looked like a test-tube with a tiny amount of blood with a science-y background. I remember it had made quite a distinct impression on my mind, no doubt helped by the fact that the profile had described her as &lt;em&gt;&amp;ldquo;this Stanford dropout 20-something who was hailed as being a younger version of Einstein, was going to change the world&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;</description>
+      <guid>https://www.siddharthagolu.com/posts/reading/bad-blood/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/review/show/2635590846&#34;&gt;Check it out on Goodreads&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.siddharthagolu.com/images/bad_blood.webp#center&#34; alt=&#34;Bad Blood Cover&#34; title=&#34;Bad Blood Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-to-fool-the-world-and-become-a-billionaire&#34;&gt;How to fool the world and become a Billionaire&lt;/h2&gt;&#xA;&lt;p&gt;I remember hearing about &lt;em&gt;Elizabeth Holmes&lt;/em&gt; when I was in my late teens, at that impressionable age when you get hyper-inspired by reading about icons that are going to change the world. There was a profile of her in Wired, with an eye-catching image of her wearing a turtleneck black sweater holding what looked like a test-tube with a tiny amount of blood with a science-y background. I remember it had made quite a distinct impression on my mind, no doubt helped by the fact that the profile had described her as &lt;em&gt;&amp;ldquo;this Stanford dropout 20-something who was hailed as being a younger version of Einstein, was going to change the world&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

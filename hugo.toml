@@ -5,10 +5,7 @@ theme = 'minimalist'
 
 [params]
 	profilePic = "/images/profile.jpg"
-	description = "Welcome to the preferred dumping ground for my thoughts.
-
-      - I write about [books](/categories/book-notes), [cinema](/categories/cinema), [life](/categories/poetry) and [engineering](/categories/technical), whenever I can carve some time off from [building One800](https://www.one800.help/). Feel free to jump into the recent posts below, or start with some [byte sized TILs](/categories/til).
-	"
+	description = "Welcome to the preferred dumping ground for my thoughts"
 	favicon = "/favicon.ico"
 	favicon32 = "/favicon-32x32.png"
 	favicon16 = "/favicon-16x16.png"

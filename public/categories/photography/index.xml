@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Photography on My New Hugo Site</title>
-    <link>http://localhost:1313/categories/photography/</link>
-    <description>Recent content in Photography on My New Hugo Site</description>
+    <title>Photography on Siddhartha Golu</title>
+    <link>https://www.siddharthagolu.com/categories/photography/</link>
+    <description>Recent content in Photography on Siddhartha Golu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Mar 2021 20:18:21 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/photography/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.siddharthagolu.com/categories/photography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photography</title>
-      <link>http://localhost:1313/photography/</link>
+      <link>https://www.siddharthagolu.com/photography/</link>
       <pubDate>Tue, 23 Mar 2021 20:18:21 +0530</pubDate>
-      <guid>http://localhost:1313/photography/</guid>
+      <guid>https://www.siddharthagolu.com/photography/</guid>
       <description>&lt;p&gt;My fascination with the visual media brought me closer to seeing the world through a different lens. This is an ongoing effort to capture what I see and share it with the world.&lt;/p&gt;&#xA;&lt;p&gt;You can browse the images below using left/right keys. All the images are hosted on flickr, I&amp;rsquo;d recommend navigating to my photostream if you want to see them in full size.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol&gt;&#xA;&lt;li id=&#34;fn:1&#34;&gt;&#xA;&lt;p&gt;You might need to enable Javascript if you&amp;rsquo;re unable to see the images properly.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

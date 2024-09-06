@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Public-Health on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/public-health/</link>
-    <description>Recent content in Public-Health on My New Hugo Site</description>
+    <title>Public-Health on Siddhartha Golu</title>
+    <link>https://www.siddharthagolu.com/tags/public-health/</link>
+    <description>Recent content in Public-Health on Siddhartha Golu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Jun 2023 08:49:32 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/public-health/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.siddharthagolu.com/tags/public-health/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Empire of Pain: The Secret History of the Sackler Dynasty</title>
-      <link>http://localhost:1313/posts/reading/empire-of-pain/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/empire-of-pain/</link>
       <pubDate>Wed, 21 Jun 2023 08:49:32 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/empire-of-pain/</guid>
+      <guid>https://www.siddharthagolu.com/posts/reading/empire-of-pain/</guid>
       <description>If you want to understand how the opioid crisis began, read this</description>
     </item>
   </channel>

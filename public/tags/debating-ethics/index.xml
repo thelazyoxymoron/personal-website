@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Debating-Ethics on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/debating-ethics/</link>
-    <description>Recent content in Debating-Ethics on My New Hugo Site</description>
+    <title>Debating-Ethics on Siddhartha Golu</title>
+    <link>https://www.siddharthagolu.com/tags/debating-ethics/</link>
+    <description>Recent content in Debating-Ethics on Siddhartha Golu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Sep 2021 10:43:25 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/debating-ethics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.siddharthagolu.com/tags/debating-ethics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Way We Eat: Why Our Food Choices Matter by Peter Singer</title>
-      <link>http://localhost:1313/posts/reading/the-way-we-eat/</link>
+      <link>https://www.siddharthagolu.com/posts/reading/the-way-we-eat/</link>
       <pubDate>Wed, 01 Sep 2021 10:43:25 +0530</pubDate>
-      <guid>http://localhost:1313/posts/reading/the-way-we-eat/</guid>
+      <guid>https://www.siddharthagolu.com/posts/reading/the-way-we-eat/</guid>
       <description>The ethical dilemma of eating. Highly recommended!</description>
     </item>
   </channel>

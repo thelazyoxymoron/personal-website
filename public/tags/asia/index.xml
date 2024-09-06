@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Asia on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/asia/</link>
-    <description>Recent content in Asia on My New Hugo Site</description>
+    <title>Asia on Siddhartha Golu</title>
+    <link>https://www.siddharthagolu.com/tags/asia/</link>
+    <description>Recent content in Asia on Siddhartha Golu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 May 2022 22:41:55 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/asia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.siddharthagolu.com/tags/asia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>After Life (1998) by Hirokazu Kore-eda</title>
-      <link>http://localhost:1313/posts/cinema/after-life/</link>
+      <link>https://www.siddharthagolu.com/posts/cinema/after-life/</link>
       <pubDate>Sun, 01 May 2022 22:41:55 +0530</pubDate>
-      <guid>http://localhost:1313/posts/cinema/after-life/</guid>
+      <guid>https://www.siddharthagolu.com/posts/cinema/after-life/</guid>
       <description>An interesting take on life, seen through the lens of afterlife. Highly recommended!</description>
     </item>
     <item>
       <title>3 Iron (2004) by Kim Ki-duk</title>
-      <link>http://localhost:1313/posts/cinema/3-iron/</link>
+      <link>https://www.siddharthagolu.com/posts/cinema/3-iron/</link>
       <pubDate>Sun, 14 Nov 2021 10:46:40 +0530</pubDate>
-      <guid>http://localhost:1313/posts/cinema/3-iron/</guid>
+      <guid>https://www.siddharthagolu.com/posts/cinema/3-iron/</guid>
       <description>A film where everything is conveyed through glances.</description>
     </item>
   </channel>
