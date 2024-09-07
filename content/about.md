@@ -6,6 +6,8 @@ cover:
 draft: false
 ---
 
+![In front of mountains](/images/Love_for_mountains.jpeg#center "In front of Mountains")
+
 [(See this picture on flickr)]
 
 ----------------------------------------------
