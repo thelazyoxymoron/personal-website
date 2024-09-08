@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Siddhartha Golu'
 theme = 'minimalist'
 
+[outputs]
+  home = ["HTML", "RSS"]
+
 [params]
 	profilePic = "/images/profile.jpg"
 	description = "Welcome to the preferred dumping ground for my thoughts. I mostly write about books, cinema, tinkering and trying to live a more productive life."
