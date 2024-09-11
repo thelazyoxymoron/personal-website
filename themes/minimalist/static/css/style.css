@@ -319,6 +319,13 @@ footer {
 	font-weight: bold;
 }
 
+#theme-toggle {
+  width: 2rem;
+  height: 2rem;
+  align-items: center;
+  justify-content: center;
+}
+
 .theme-icon {
   width: 1em;
   height: 1em;
