@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
   const setTheme = (theme) => {
     document.body.classList.remove('light-mode', 'dark-mode');
     document.body.classList.add(`${theme}-mode`);
-    themeIcon.className = theme === 'dark' ? 'fas fa-sun' : 'fas fa-moon';
+    themeIcon.className = theme === 'dark' ? 'theme-icon sun' : 'theme-icon moon';
     localStorage.setItem('theme', theme);
   };
 

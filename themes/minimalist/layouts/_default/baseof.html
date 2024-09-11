@@ -7,7 +7,6 @@
   <link rel="icon" href="{{ .Site.Params.favicon | relURL }}">
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
   <link rel="alternate" type="application/rss+xml" href="{{.Site.BaseURL }}index.xml" title="{{ .Site.Title }}">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
   <script src="{{ "js/theme-switcher.js" | relURL }}" defer></script>
 
   {{- /* Umami script for analytics */ -}}
@@ -28,7 +27,7 @@
         <a href="{{ "categories" | relURL }}">Categories</a>
         <a href="{{ "tags" | relURL }}">Tags</a>
 		<button id="theme-toggle" aria-label="Toggle Dark Mode">
-		  <i id="theme-icon" class="fas fa-moon"></i>
+		  <i id="theme-icon" class="theme-icon moon"></i>
 		</button>
       </div>
     </nav>
