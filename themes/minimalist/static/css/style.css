@@ -318,19 +318,18 @@ footer {
 	font-size: 1.5em;
 	font-weight: bold;
 }
+
 .theme-icon {
-  display: inline-block;
   width: 1em;
   height: 1em;
-  stroke-width: 0;
-  stroke: currentColor;
-  fill: currentColor;
 }
 
 .theme-icon.moon::before {
-  content: "🌙";
+  content: "☽";
+  font-size: 16px;
 }
 
 .theme-icon.sun::before {
-  content: "☀️";
+  content: "☼";
+  font-size: 16px;
 }
