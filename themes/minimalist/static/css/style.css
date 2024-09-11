@@ -74,6 +74,41 @@ body.dark-mode footer {
   border-top: 1px solid #333;
 }
 
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+body.dark-mode .site-container {
+  background-color: #1e1e1e;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+body.dark-mode .site-header {
+  background-color: #1e1e1e;
+  border-bottom: 1px solid #333;
+}
+
+body.dark-mode nav a {
+  color: #ffffff;
+}
+
+body.dark-mode nav a:hover {
+  color: #ff4081;
+}
+
+body.dark-mode a {
+  color: #ff4081;
+}
+
+body.dark-mode a:hover {
+  color: #ff80ab;
+}
+
+body.dark-mode footer {
+  border-top: 1px solid #333;
+}
+
 .site-container {
   flex: 1; /* Ensure the container takes up the remaining space */
   background-color: #fff; /* Elevated block background color */
