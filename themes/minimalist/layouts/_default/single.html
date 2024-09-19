@@ -4,7 +4,9 @@
     <div class="post-meta">
       <time datetime="{{ .Date }}">{{ .Date.Format "January 2, 2006" }}</time>
       <div class="post-tags">
-        <span class="tag-icon">🏷️</span>
+        {{ if .Params.tags }}
+          <span class="tag-icon">🏷️</span>
+        {{ end }}
         {{ range .Params.tags }}
           <a href="/tags/{{ . | urlize }}" class="tag">{{ . }}</a>
         {{ end }}
