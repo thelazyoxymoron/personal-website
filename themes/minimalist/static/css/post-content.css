@@ -5,3 +5,11 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+@media (max-width: 600px) {
+  .post-content img {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
