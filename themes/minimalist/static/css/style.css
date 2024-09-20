@@ -244,8 +244,20 @@ footer {
 }
 
 .post-meta time {
-  margin-right: 1rem;
+  margin-right: 0.5rem;
   flex-shrink: 0; /* Prevent the date from shrinking */
+}
+
+.post-meta .dot {
+  font-size: 0.5rem;
+  color: #666;
+  margin-right: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  .post-meta .dot {
+    display: none;
+  }
 }
 
 .post-tags {
