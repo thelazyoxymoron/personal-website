@@ -10,12 +10,12 @@ draft: false
 
 ------------------------------------------------------------
 
-![Behave cover](/images/behave.webp#center "Behave cover")
+![Behave cover](/images/behave.webp "Behave cover")
 
 There are few books which leave you in a mesmerizing state after having read them. You ponder about it for days to come, want to scream your head off about it to anyone who'd listen, and then dwell in this fear of picking up another book because how can something else ever come close to being this perfect!
 I have felt this way before - first when I'd finished [The Complete Sherlock
 Holmes](https://www.goodreads.com/book/show/188572.The_Complete_Sherlock_Holmes), later when I was left
-in a daze for multiple days after finishing the notorious and brilliant [House of Leaves](https://www.goodreads.com/review/show/1736892374), and much more recently when I was unable
+in a daze for multiple days after finishing the notorious and brilliant [House of Leaves](/posts/reading/house-of-leaves/), and much more recently when I was unable
 to sleep after reading [Why We Sleep by Matthew Walker](https://www.goodreads.com/review/show/2630378184).
 
 Behave is one of those few books.

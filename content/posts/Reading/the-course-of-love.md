@@ -3,9 +3,6 @@ title: "The Course of Love by Alain de Botton"
 date: 2019-02-14T20:21:45+05:30
 categories: ["Book Notes"]
 tags: ["fiction", "relationship"]
-cover:
-  hidden: false
-  image: "images/the_course_of_love.jpg"
 draft: false
 ---
 
@@ -13,6 +10,7 @@ draft: false
 
 ---------------------------------
 
+![The course of love - cover](/images/the-course-of-love.webp "The course of love - cover")
 
 The School of Life - a massively popular YouTube channel - used to be this source of solace in some turbulent times of my college life.
 It is not something that you'd think would be cheerful and uplifting - a quick glance at some of the most popular videos of the channel would include titles such as ["Why we go cold on our partners"](https://www.youtube.com/watch?v=WRaaqN2Atxw), ["Why you will marry the wrong person"](https://www.youtube.com/watch?v=zuKV2DI9-Jg) etc.

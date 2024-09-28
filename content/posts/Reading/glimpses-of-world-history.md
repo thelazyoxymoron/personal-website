@@ -3,15 +3,14 @@ title: "Glimpses of World History by Jawaharlal Nehru"
 date: 2020-03-12T23:23:19+05:30
 categories: ["Book Notes"]
 tags: ["indian-authors", "history", "non-fiction", "letters", "favourites"]
-cover:
-  hidden: false
-  image: "images/world_history.webp"
 draft: false
 ---
 
 [Check it out on Goodreads](https://www.goodreads.com/review/show/2891482793)
 
 ------------------------------------
+
+![Glimpses of World History cover](/images/world_history.webp "Glimpses of World History cover")
 
 ## World history in a nutshell
 

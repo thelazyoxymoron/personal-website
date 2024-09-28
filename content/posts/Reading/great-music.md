@@ -3,15 +3,14 @@ title: "How to Listen to and Understand Great Music by Robert Greenberg"
 date: 2020-01-16T22:05:06+05:30
 categories: ["Book Notes"]
 tags: ["audiobook", "favourites", "classical-music", "history"]
-cover:
-  hidden: false
-  image: "images/ttc_great_music.webp"
 draft: false
 ---
 
 [Check it out on Goodreads](https://www.goodreads.com/review/show/3030817409)
 
 ---------------------------------------------
+
+![Understanding great music - cover](/images/ttc-great-music.webp "Understanding great music - cover")
 
 I have been a lover of music since my early childhood - runs in the family - and have imitated and performed songs (mostly inside my own head) on numerous occasions. Despite this lifelong love affair with music of all kinds, there was one particular genre of music that always baffled me. Mostly because of my own ignorance, but partially also because nobody else was talking about it. Nobody else in my own vicinity that is. It didn't play on the radio, you won't hear it playing on any of the countless music channels and certainly, nobody was going on tours giving live performances.
 

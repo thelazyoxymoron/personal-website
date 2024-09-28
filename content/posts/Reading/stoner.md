@@ -2,15 +2,15 @@
 title: "Stoner by John Williams"
 date: 2020-06-28T19:45:36+05:30
 categories: ["Book Notes"]
-tags: ["fiction"]
-cover:
-  image: "images/stoner.webp"
+tags: ["fiction", "favourites"]
 draft: false
 ---
 
 [Check it out on Goodreads](https://www.goodreads.com/review/show/1389128822)
 
 ----------------------------
+
+![Stoner cover](/images/stoner.webp#center "Stoner cover")
 
 Reading fiction has always been a double-edged sword for me. Some of the most intimate moments I've spent alone is while reading fictional stories, while at the same time, feeling a pang of disappointment for myself because I wasn't doing anything "productive." Is this mere entertainment? Am I just escaping my real-life responsibilities and reading stories of make-believe? While I still haven't found sincere answers to these questions, I've grown more confident of what I enjoy and what I don't, which has consequently helped me find peace with this conflict. Over the years, I've realized that reading good literature is therapeutic for me - not to be used as an afterthought but essential to keep me functional.
 

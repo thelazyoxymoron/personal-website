@@ -4,11 +4,11 @@ date: 2019-01-21T14:39:14+05:30
 description: "On my journey to learn more about philosophy - the first step into the realms of existentialism"
 categories: ["Book Notes"]
 tags: ["philosophy", "non-fiction", "existentialism"]
-cover:
-  hidden: false
-  image: "images/The_Bookshelf.jpg"
 draft: false
 ---
+
+![The bookshelf](/images/the-bookshelf.webp "The bookshelf")
+
 # Preamble
 
 Philosophy has always been one of those baffling things that entice you at first by its simplicity, but as you get sucked into it more and more, you find yourself searching for the end of this labyrinthine landscape. I had my first exposure to anything related to philosophy in my second year of college when I stumbled upon **The Fountainhead by Ayn Rand**. At the time, it was one of the fascinating books I had ever read. I distinctly remember sitting down with the book at 9 PM having had my dinner, and as the custom goes, was looking forward to reading anything that could distract me from the mountain load of coursework that I had to finish for the upcoming semester exams. I became so engrossed in the story that when I finished the book and went outside to take in a fresh breath of air - I was startled to discover that the sunlight was already shining throughout the corridor - it was 7 o'clock in the morning!

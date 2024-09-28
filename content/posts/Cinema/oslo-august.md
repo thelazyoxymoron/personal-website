@@ -2,10 +2,7 @@
 title: "Oslo, August 31st (2011) by Joachim Trier"
 date: 2020-06-04T14:39:00+05:30
 categories: ["Cinema"]
-tags: ["foreign-cinema", "norwegian"]
-cover:
-  hidden: false
-  image: "images/oslo-august-31.jpg"
+tags: ["foreign-cinema", "norwegian", "favourites"]
 draft: false
 ---
 
@@ -15,6 +12,7 @@ Verdict: <span> &starf; &starf; &starf; &starf; &star; </span>
 
 ----------------
 
+![A scene from Oslo, August 31st](/images/oslo-august.webp#center "A scene from Oslo, August 31st")
 
 **Anhedonia**. The Wikipedia entry for this word says:
 

@@ -2,7 +2,7 @@
 title: "Deference vs. Indifference"
 date: 2019-03-15T22:27:30+05:30
 categories: ["Poetry"]
-tags: ["poetry", "writing"]
+tags: ["poetry"]
 draft: false
 ---
 
@@ -10,10 +10,9 @@ draft: false
 
 ------------------------------------------------
 
-![Lake cover](/images/the-solitude.webp#center "Lake cover")
+![Lake cover](/images/the-solitude.webp "Lake cover")
 
 ## Deference vs. Indifference
-
 
 
 There used to be a time  

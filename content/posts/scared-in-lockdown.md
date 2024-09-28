@@ -2,16 +2,15 @@
 title: "Fear"
 date: 2020-04-25T23:45:30+05:30
 categories: ["Poetry"]
-tags: ["poetry", "writing"]
-cover:
-  hidden: false
-  image: "images/fear.png"
+tags: ["poetry", "favourites"]
 draft: false
 ---
 
 [Check it out on Instagram](https://www.instagram.com/p/B_Znc5AB_hK/)
 
 -----------------------------
+
+![Fear](/images/fear.webp "Fear")
 
 I'm scared.
 

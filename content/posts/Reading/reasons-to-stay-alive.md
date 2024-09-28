@@ -3,15 +3,14 @@ title: "Reasons to Stay Alive by Matt Haig"
 date: 2020-01-28T22:28:18+05:30
 categories: ["Book Notes"]
 tags: ["depression", "non-fiction"]
-cover:
-  hidden: false
-  image: "images/reasons_to_stay_alive.webp"
 draft: false
 ---
 
 [Check it out on Goodreads](https://www.goodreads.com/review/show/3161153699)
 
 ------------------------------------------------
+
+![Reasons to stay alive cover](/images/reasons-to-stay-alive.webp "Reasons to stay alive cover")
 
 **Reasons you should read this book:**
 

@@ -2,12 +2,10 @@
 title: "About Me"
 date: 2019-01-09T11:16:16+05:30
 updated: 2024-09-20T11:16:16+05:30
-cover:
-  image: "images/Love_for_mountains.jpeg"
 draft: false
 ---
 
-![In front of mountains](/images/Love_for_mountains.jpeg#center "In front of Mountains")
+![In front of mountains](/images/love-for-mountains.webp "In front of Mountains")
 
 [(See this picture on flickr)]
 
