@@ -5,12 +5,11 @@ author: "siddhartha"
 categories: ["Drawings"]
 image: "Mother_Teresa.jpg"
 tags: ["sketching"]
-cover:
-  hidden: false
-  image: "images/Mother_Teresa.jpg"
 draft: false
 ---
 
 ---------------------
 
 Completely botched this drawing, but it reminds me of the drawing streak I used to have back when I was in my hometown during college vacations.
+
+![Sketch of Mother Teresa](/images/Mother_Teresa.webp#center "Sketch of Mother Teresa")

@@ -2,7 +2,7 @@
   <channel>
     <title>{{ if eq .Title .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
-    <description>Recent content {{ if ne .Title .Site.Title }}{{ with .Title }}in {{.}} {{ end }}{{ end }}on {{ .Site.Title }}</description>
+    <description>Writings on books, cinema, tinkering and living a productive life</description>
     <generator>Hugo -- gohugo.io</generator>
     {{ with .Site.LanguageCode }}
       <language>{{ . }}</language>
@@ -32,7 +32,7 @@
           <author>{{ . }}{{ with $.Site.Author.name }} ({{ . }}){{ end }}</author>
         {{ end }}
         <guid>{{ $post.Permalink }}</guid>
-        <description>{{ $post.Summary | html }}</description>
+        <description>{{ $post.Content | html }}</description>
       </item>
     {{ end }}
   </channel>
