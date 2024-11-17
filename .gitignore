@@ -1,3 +1,4 @@
 .aider*
 .hugo*
 public/
+.aider.conf.yml
