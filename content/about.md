@@ -32,6 +32,7 @@ If you want to get in touch with me, the easiest way would be to go the old fash
 
 Or if you prefer, you can also connect with me on the following social media sites:
 
+* [Bluesky](https://bsky.app/profile/siddharthagolu.com "Bluesky") 
 * [Goodreads](https://www.goodreads.com/siddharthagolu/ "Books") 
 * [Flickr](https://flickr.com/photos/thelazyoxymoron/ "Photos")
 * [LinkedIn](https://www.linkedin.com/in/siddharthagolu/ "Work")
