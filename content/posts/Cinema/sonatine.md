@@ -12,7 +12,7 @@ Verdict: <span> &starf; &starf; &starf; &starf; &star; </span>
 
 ---------------------
 
-![Sonatine movie poster](/images/sonatine.webp#center "Sonatine movie poster")
+![Sonatine movie poster](https://static.siddharthagolu.com/sid-website-assets/sonatine.webp#center "Sonatine movie poster")
 
 An important film not just for the career of Kitano but an interesting take on the Yakuza genre films.
 

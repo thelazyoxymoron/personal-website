@@ -11,18 +11,18 @@ Recently when my mom got a new phone, I wanted to remove some system application
 Found a way to do this via [Shizuku](https://github.com/RikkaApps/Shizuku) + [Hail](https://github.com/aistra0528/Hail):
 
 * Install Shizuku
-![Shizuku home screen](/images/shizuku_home_page.png "Shizuku home screen")
+![Shizuku home screen](https://static.siddharthagolu.com/sid-website-assets/shizuku-home-page.webp "Shizuku home screen")
 * Starting with android 11, you can use ADB on the device without using a PC. You'll have to enable wireless debugging first and then connect the app through the wireless debugging.
 * Go to `About phone -> build number` and keep clicking it to enable developer mode
 * Once enabled, search for `wireless debugging` in settings -> enable that -> click on the left side of the panel to go inside `wireless debugging`
 * Open `Shizuku` and click on `pairing` under wireless debugging
 * Give notification access
-![Shizuku notification](/images/shizuku-notification.png "Shizuku notification")
+![Shizuku notification](https://static.siddharthagolu.com/sid-website-assets/shizuku-notification.webp "Shizuku notification")
 * Click on `developer options` -> go to `wireless debugging` -> pair device with pairing code -> note down the pairing code
 * Give that code in the notification bar -> pairing should be successful
 * Go back to the home screen in `Shizuku` and click on `Start`
     * If you get the following error, simply restart `Shizuku`:
-    ![Error in Shizuku](/images/shizuku-error.png "Error in shizuku")  
+    ![Error in Shizuku](https://static.siddharthagolu.com/sid-website-assets/shizuku-error.webp "Error in shizuku")  
 * Shuzuku should be running now.
 * Install `Hail` -> go to settings -> click on `working mode` -> select `Shizuku - Disable` -> Allow all the time
 * Go to `Apps` from the bottom navigation in `Hail` -> select the system apps you want to freeze -> go back to home after selecting these apps

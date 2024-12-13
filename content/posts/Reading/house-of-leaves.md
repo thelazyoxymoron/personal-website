@@ -16,7 +16,7 @@ draft = false
 
 ------------------------------------
 
-![House of Leaves cover](/images/house-of-leaves.webp "House of Leaves cover")
+![House of Leaves cover](https://static.siddharthagolu.com/sid-website-assets/house-of-leaves.webp "House of Leaves cover")
 
 ## Update from my 2nd reading
 

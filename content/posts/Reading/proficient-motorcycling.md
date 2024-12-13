@@ -15,7 +15,7 @@ draft: false
 
 ------------------------------------
 
-![PM Cover](/images/proficient.jpg#center "PM Cover")
+![PM Cover](https://static.siddharthagolu.com/sid-website-assets/proficient.webp#center "PM Cover")
 
 I have been riding motorcycles for past 7 years. I've had so many crashes in the early days that people were afraid of sitting as a pillion on my bike. Slowly I started internalizing few things and gradually the accidents stopped. This is a typical journey of how you learn any skill. However, it becomes a problem if you never give yourself a chance to see your skills from first principles and examine bad patterns that you might have internalized.
 
