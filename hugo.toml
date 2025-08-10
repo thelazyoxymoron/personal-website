@@ -21,3 +21,14 @@ startups and home servers. Feel free to jump into the recent posts below, or bro
   favicon32 = "/favicon-32x32.png"
   favicon16 = "/favicon-16x16.png"
   appleTouchIcon = "/apple-touch-icon.png"
+
+# Used for code highlighting
+[markup]
+  [markup.highlight]
+    # This enables code fences (```) in markdown to be processed by Chroma
+    codeFences = true
+    # This is now controlled by scss theme switcher, which switches
+    # between catppuccin-macchiato and catppuccin-frappe depending on the theme
+    style = "catppuccin-macchiato"
+    lineNos = true
+    guessSyntax = true
