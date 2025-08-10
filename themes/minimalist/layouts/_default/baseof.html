@@ -1,48 +1,34 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  {{ if .Description }}
-    <meta name="description" content="{{ .Description }}">
-  {{ else if .IsPage }}
-    <meta name="description" content="{{ .Summary | plainify }}">
-  {{ else }}
-    <meta name="description" content="{{ .Site.Params.Description }}">
-  {{ end }}
-  <title>{{ .Site.Title }}</title>
-  <link rel="icon" href="{{ .Site.Params.favicon | relURL }}">
-  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
-  <link rel="alternate" type="application/rss+xml" href="{{.Site.BaseURL }}index.xml" title="{{ .Site.Title }}">
-  <script src="{{ "js/theme-switcher.js" | relURL }}" defer></script>
-
-  {{- /* Umami script for analytics */ -}}
-<script async defer data-website-id="34ce8dc6-488b-49ee-9a2f-8e70a7009f17" src="https://batman.siddharthagolu.com/batman.js"></script>
-
+  {{ partial "head.html" . }}
 </head>
+
 <body>
   <div class="site-container">
-  <header class="site-header">
-    <nav>
-      <a href="{{ "/" | relURL }}">
-        <img class="site-favicon" src="{{ .Site.Params.favicon | relURL }}" alt="Profile">
-		 <span class="site-title">Siddhartha Golu </span>
-      </a>
-      <div style="float:right;">
-        <a href="{{ "about" | relURL }}" class="active">About</a>
-        <a href="{{ "posts" | relURL }}">Posts</a>
-        <a href="{{ "categories" | relURL }}">Categories</a>
-        <a href="{{ "tags" | relURL }}">Tags</a>
-		<button id="theme-toggle" aria-label="Toggle Dark Mode">
-		  <span id="theme-icon" class="theme-icon moon"></span>
-		</button>
-      </div>
-    </nav>
-  </header>
-  <main>
-    {{ block "main" . }}{{ end }}
-  </main>
-  {{ partial "footer.html" . }}
+    <header class="site-header">
+      <nav>
+        <a href="{{ "/" | relURL }}">
+          <img class="site-favicon" src="{{ .Site.Params.favicon | relURL }}" alt="Profile">
+          <span class="site-title">Siddhartha Golu </span>
+        </a>
+        <div style="float:right;">
+          <a href="{{ "about" | relURL }}" class="active">About</a>
+          <a href="{{ "posts" | relURL }}">Posts</a>
+          <a href="{{ "categories" | relURL }}">Categories</a>
+          <a href="{{ "tags" | relURL }}">Tags</a>
+          <button id="theme-toggle" aria-label="Toggle Dark Mode">
+            <span id="theme-icon" class="theme-icon moon"></span>
+          </button>
+        </div>
+      </nav>
+    </header>
+    <main>
+      {{ block "main" . }}{{ end }}
+    </main>
+    {{ partial "footer.html" . }}
   </div>
 </body>
+
 </html>

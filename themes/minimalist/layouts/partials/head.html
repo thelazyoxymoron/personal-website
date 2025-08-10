@@ -1,12 +1,83 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+{{/*
+=======================================
+Title
+=======================================
+- Homepage: "Site Title"
+- Other pages: "Page Title | Site Title"
+*/}}
+
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+
+{{/*
+=======================================
+Meta Description
+=======================================
+- Uses the page's `description` in front matter if it exists.
+- Falls back to the auto-generated `Summary` for pages.
+- Falls back to the site's default description for all other pages (like list pages).
+*/}}
+
+{{ $description := "" }}
+
+{{ if .IsPage }}
+  {{ $description = .Description | default (.Summary | plainify) }}
+{{ else }}
+  {{ $description = .Site.Params.description }}
+{{ end }}
+<meta name="description" content="{{ $description }}">
+
+{{/*
+=======================================
+Favicons (Your existing logic)
+=======================================
+This will now work correctly because the partial is being called.
+*/}}
+
 {{- with .Site.Params.favicon -}}
-<link rel="icon" href="{{ . }}" type="image/x-icon">
+<link rel="icon" href="{{ . | relURL }}" type="image/x-icon">
 {{- end -}}
 {{- with .Site.Params.favicon32 -}}
-<link rel="icon" href="{{ . }}" sizes="32x32" type="image/png">
+<link rel="icon" href="{{ . | relURL }}" sizes="32x32" type="image/png">
 {{- end -}}
 {{- with .Site.Params.favicon16 -}}
-<link rel="icon" href="{{ . }}" sizes="16x16" type="image/png">
+<link rel="icon" href="{{ . | relURL }}" sizes="16x16" type="image/png">
 {{- end -}}
 {{- with .Site.Params.appleTouchIcon -}}
-<link rel="apple-touch-icon" href="{{ . }}">
+<link rel="apple-touch-icon" href="{{ . | relURL }}">
 {{- end -}}
+
+{{/*
+=======================================
+CSS, JS, and RSS
+=======================================
+*/}}
+
+<link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+<script src="{{ "js/theme-switcher.js" | relURL }}" defer></script>
+<link rel="alternate" type="application/rss+xml" href="{{.Site.BaseURL }}index.xml" title="{{ .Site.Title }}">
+
+{{/*
+=======================================
+Analytics
+=======================================
+*/}}
+{{- if hugo.IsProduction -}}
+<script async defer data-website-id="34ce8dc6-488b-49ee-9a2f-8e70a7009f17" src="https://batman.siddharthagolu.com/batman.js"></script>
+{{- end -}}
+
+<!-- SEO and Social Media (Open Graph & Twitter) -->
+<!-- Use page-specific image if available, otherwise use site default -->
+{{ $ogImage := .Params.image | default .Site.Params.defaultImage }}
+
+{{ with $ogImage }}
+{{/* Ensure the URL is absolute, which is required for social media */}}
+  <meta property="og:image" content="{{ . | absURL }}">
+{{ end }}
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ $description }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">

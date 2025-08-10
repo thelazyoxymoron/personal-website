@@ -8,6 +8,7 @@ theme = 'minimalist'
 
 [params]
   profilePic = "/images/profile.png"
+  defaultImage = "/images/profile.png"
   description = """
 Welcome to the preferred dumping ground for my thoughts. \n\n I try to read widely across
 subjects so the topics here can range from books, cinema, poetry to philosophy, machine-learning,
@@ -20,4 +21,3 @@ startups and home servers. Feel free to jump into the recent posts below, or bro
   favicon32 = "/favicon-32x32.png"
   favicon16 = "/favicon-16x16.png"
   appleTouchIcon = "/apple-touch-icon.png"
-
