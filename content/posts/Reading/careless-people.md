@@ -3,7 +3,7 @@ title = 'Careless People by Sarah Wynn-Williams'
 date = 2025-04-10T23:53:07+05:30
 categories = ['Book Notes']
 tags = ['memoirs', 'social-media', 'audiobook']
-image = "https://static.siddharthagolu.com/sid-website-assets/books/careless-people.jpg"
+image = "https://static.siddharthagolu.com/sid-website-assets/books/careless-people-2.jpg"
 draft = false
 +++
 
