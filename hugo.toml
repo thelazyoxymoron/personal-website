@@ -17,7 +17,7 @@ startups and home servers. Feel free to jump into the recent posts below, or bro
   """
   og_image = "/images/profile.webp"
 
-  favicon = "/favicon.ico"
+  favicon = "/favicon.png"
   favicon32 = "/favicon-32x32.png"
   favicon16 = "/favicon-16x16.png"
   appleTouchIcon = "/apple-touch-icon.png"
